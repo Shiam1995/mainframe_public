@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mainframe</title>
+  <link rel="stylesheet" href="/css/main.css?v=170" />
+</head>
+<body>
+  <!-- CRT boot screen: covers the app from first paint; boot.js fills + animates it. -->
+  <div id="boot" class="boot"><div class="crt-overlay"></div></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">◆</span>
+      <span class="brand-name">MAINFRAME<span class="brand-accent"> / SYNAPSE</span></span>
+    </div>
+    <div id="module-switch" class="module-switch"><!-- module buttons injected by app.js --></div>
+    <nav id="tabs" class="tabs"><!-- tabs injected by app.js --></nav>
+    <!-- Dictation, always within reach: the mic types into whatever box you were
+         last in, so it works on every screen without each view wiring it up. -->
+    <button id="vt-mic" class="vt-mic" title="dictate into the box you're typing in">◉</button>
+    <div class="status" id="status-pill" title="backend status">
+      <span class="dot" id="dot-neo4j"></span>neo4j
+      <span class="dot" id="dot-llm"></span><span id="llm-label">llm</span>
+    </div>
+  </header>
+
+  <!-- second bar: the active module's own tabs (tinted the module colour) -->
+  <nav id="module-tabs" class="module-bar"><!-- module tabs injected by app.js --></nav>
+
+  <main class="layout">
+    <aside id="context-panel" class="context-panel hidden">
+      <!-- paper context (workspace) injected here -->
+    </aside>
+    <section id="view" class="view"><!-- active view rendered here --></section>
+  </main>
+
+  <button id="back-home" class="back-home">← mainframe</button>
+  <div id="home" class="home-screen"></div>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <!-- vanilla ES modules; loaded in dependency order -->
+  <script src="/js/modules.js?v=38"></script>
+  <script src="/js/sync.js?v=2"></script>
+  <script src="/js/api.js?v=53"></script>
+  <script src="/js/ui.js?v=11"></script>
+  <script src="/js/images.js?v=6"></script>
+  <!-- One note shape, one control in front of it; loaded early so every
+       tab below can reach window.Notes. -->
+  <script src="/js/notes.js?v=1"></script>
+  <script src="/js/repo.js?v=22"></script>
+  <script src="/js/workspace.js?v=38"></script>
+  <script src="/js/dictionary.js?v=3"></script>
+  <script src="/js/scanner.js?v=1"></script>
+  <script src="/js/calendar.js?v=6"></script>
+  <script src="/js/snapshot.js?v=5"></script>
+  <script src="/js/phase-pace.js?v=1"></script>
+  <script src="/js/phases.js?v=15"></script>
+  <script src="/js/mind.js?v=9"></script>
+  <script src="/js/timeline.js?v=7"></script>
+  <script src="/js/master-timeline.js?v=2"></script>
+  <script src="/js/activity.js"></script>
+  <script src="/js/kg.js?v=6"></script>
+  <script src="/js/refgraph.js?v=9"></script>
+  <!-- Vault module -->
+  <script src="/js/vault-common.js?v=2"></script>
+  <script src="/js/vault-accounts.js?v=1"></script>
+  <script src="/js/vault-recurring.js?v=3"></script>
+  <script src="/js/vault-subscriptions.js?v=1"></script>
+  <script src="/js/vault-transactions.js?v=4"></script>
+  <script src="/js/vault-budget.js?v=1"></script>
+  <script src="/js/vault-months.js?v=2"></script>
+  <script src="/js/vault-investments.js?v=2"></script>
+  <script src="/js/vault-inventory.js?v=3"></script>
+  <script src="/js/section-diary.js?v=1"></script>
+  <script src="/js/diary.js?v=1"></script>
+  <script src="/js/vault-diary.js?v=2"></script>
+  <script src="/js/vault-overview.js?v=1"></script>
+  <script src="/js/vault-analytics.js?v=4"></script>
+  <!-- Vision module -->
+  <script src="/js/vision-blueprint.js?v=2"></script>
+  <script src="/js/vision-research.js?v=2"></script>
+  <script src="/js/vision-script.js?v=2"></script>
+  <script src="/js/vision-prompts.js?v=2"></script>
+  <script src="/js/vision-storyboard.js?v=2"></script>
+  <script src="/js/vision-thumbs.js?v=3"></script>
+  <script src="/js/vision-writing.js?v=2"></script>
+  <script src="/js/vision-portfolio.js?v=3"></script>
+  <script src="/js/vision-network.js?v=5"></script>
+  <script src="/js/vision-youtube.js?v=9"></script>
+  <!-- Pulse module -->
+  <script src="/js/pulse-common.js?v=3"></script>
+  <script src="/js/pulse-scores.js?v=1"></script>
+  <!-- Habits: sub-views register into HABIT_TABS, then the shell -->
+  <script src="/js/habits-list.js?v=5"></script>
+  <script src="/js/habits-areas.js?v=2"></script>
+  <script src="/js/habits-trends.js?v=1"></script>
+  <script src="/js/habits.js?v=4"></script>
+  <script src="/js/tracking.js?v=7"></script>
+  <script src="/js/experiments.js?v=5"></script>
+  <script src="/js/routines.js?v=5"></script>
+  <script src="/js/medical.js?v=4"></script>
+  <script src="/js/medications.js?v=4"></script>
+  <!-- Pulse Fitness sub-module (sub-views register into FIT_TABS, then the shell) -->
+  <script src="/js/fitness-dashboard.js?v=1"></script>
+  <script src="/js/fitness-program.js?v=8"></script>
+  <script src="/js/fitness-logworkout.js?v=8"></script>
+  <script src="/js/fitness-workouts.js?v=12"></script>
+  <script src="/js/fitness-dayreview.js?v=4"></script>
+  <script src="/js/body-atlas.js?v=4"></script>
+  <script src="/js/fitness-body.js?v=11"></script>
+  <script src="/js/fitness-activity.js?v=4"></script>
+  <script src="/js/fitness-stretch.js?v=4"></script>
+  <script src="/js/fitness-cardio.js?v=3"></script>
+  <script src="/js/fitness-history.js?v=2"></script>
+  <script src="/js/fitness.js?v=2"></script>
+  <!-- Benchmark: sub-views register into BENCH_TABS, then the shell -->
+  <script src="/js/benchmark-baseline.js?v=4"></script>
+  <script src="/js/benchmark-snapshots.js?v=3"></script>
+  <script src="/js/benchmark-trends.js?v=1"></script>
+  <script src="/js/benchmark-fitness-test.js?v=1"></script>
+  <script src="/js/benchmarks.js?v=2"></script>
+  <!-- Nutrition (sub-views register into NUT_TABS, then the shell) -->
+  <script src="/js/nutrition-common.js?v=1"></script>
+  <script src="/js/nutrition-dashboard.js?v=2"></script>
+  <script src="/js/nutrition-log.js?v=5"></script>
+  <script src="/js/nutrition-foods.js?v=5"></script>
+  <script src="/js/nutrition-catalog.js?v=5"></script>
+  <script src="/js/nutrition-scan.js?v=1"></script>
+  <script src="/js/nutrition-recipes.js?v=3"></script>
+  <script src="/js/nutrition-water.js?v=2"></script>
+  <script src="/js/nutrition-weight.js?v=2"></script>
+  <script src="/js/nutrition-fasting.js?v=2"></script>
+  <script src="/js/nutrition-goals.js?v=3"></script>
+  <script src="/js/nutrition-intolerances.js?v=5"></script>
+  <script src="/js/nutrition-supplements.js?v=5"></script>
+  <script src="/js/nutrition.js?v=3"></script>
+  <!-- Recovery (meditation / breathing / forest bathing) -->
+  <script src="/js/recovery.js?v=4"></script>
+  <script src="/js/deepdive.js?v=8"></script>
+  <script src="/js/decomposition.js?v=2"></script>
+  <script src="/js/lattice.js?v=1"></script>
+  <script src="/js/worklog.js?v=11"></script>
+  <script src="/js/work.js?v=6"></script>
+  <script src="/js/reference-picker.js?v=1"></script>
+  <script src="/js/project-picker.js?v=1"></script>
+  <script src="/js/book-master.js?v=2"></script>
+  <script src="/js/project-overview.js?v=3"></script>
+  <script src="/js/project-workspace.js?v=1"></script>
+  <script src="/js/project-instances.js?v=6"></script>
+  <script src="/js/project-ideas.js?v=4"></script>
+  <script src="/js/project-attach.js?v=2"></script>
+  <script src="/js/project-tree.js?v=14"></script>
+  <script src="/js/projects.js?v=19"></script>
+  <script src="/js/ideakinds.js?v=1"></script>
+  <script src="/js/inbox.js?v=33"></script>
+  <script src="/js/quickidea.js?v=4"></script>
+  <script src="/js/timers.js?v=4"></script>
+  <script src="/js/reminders.js?v=1"></script>
+  <!-- ⏱ chip next to the bell: work done that never got time logged against it.
+       Must load after reminders.js — it mounts itself beside that bell. -->
+  <script src="/js/unlogged.js?v=1"></script>
+  <script src="/js/framework.js?v=4"></script>
+  <script src="/js/reasoning.js?v=2"></script>
+  <script src="/js/headers.js?v=2"></script>
+  <script src="/js/docs.js?v=7"></script>
+  <script src="/js/sheets.js?v=4"></script>
+  <script src="/js/listbox.js?v=10"></script>
+  <script src="/js/questions.js?v=8"></script>
+  <script src="/js/gratitude.js?v=4"></script>
+  <script src="/js/assumptions.js?v=3"></script>
+  <script src="/js/log-mistakes.js?v=1"></script>
+  <script src="/js/log.js?v=2"></script>
+  <script src="/js/learning.js?v=8"></script>
+  <script src="/js/lessons.js?v=5"></script>
+  <script src="/js/help.js?v=1"></script>
+  <script src="/js/home.js?v=5"></script>
+  <!-- Planner sub-views register into PLANNER_TABS, then the shell -->
+  <script src="/js/planner-budget.js?v=1"></script>
+  <script src="/js/planner-calendar.js?v=1"></script>
+  <script src="/js/planner.js?v=6"></script>
+  <script src="/js/settings.js?v=1"></script>
+  <script src="/js/voicetype.js?v=1"></script>
+  <script src="/js/agent.js?v=4"></script>
+  <script src="/js/app.js?v=19"></script>
+  <script src="/js/kbdnav.js?v=2"></script>
+  <script src="/js/boot.js?v=5"></script>
+</body>
+</html>

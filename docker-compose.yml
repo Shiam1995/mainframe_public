@@ -1,0 +1,41 @@
+# Reference compose file. Your machine currently lacks the `docker compose`
+# plugin, so start.sh uses plain `docker run` instead. If you later install the
+# plugin (`sudo apt install docker-compose-plugin`), `docker compose up` works too.
+services:
+  neo4j:
+    image: neo4j:5-community
+    container_name: mainframe-neo4j
+    ports:
+      - "7474:7474"   # browser UI
+      - "7687:7687"   # bolt
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:-mainframe}
+      NEO4J_server_memory_pagecache_size: 512M
+    volumes:
+      - mainframe_neo4j_data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "cypher-shell -u neo4j -p ${NEO4J_PASSWORD:-mainframe} 'RETURN 1' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build: ./backend
+    depends_on:
+      neo4j:
+        condition: service_healthy
+    environment:
+      NEO4J_URI: bolt://neo4j:7687
+      NEO4J_PASSWORD: ${NEO4J_PASSWORD:-mainframe}
+      # LLM stays local; point at the host's Ollama.
+      OLLAMA_HOST: http://host.docker.internal:11434
+      LLM_PROVIDER: ollama
+    ports:
+      - "8000:8000"
+    volumes:
+      - ${HOME}/.mainframe:/root/.mainframe
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  mainframe_neo4j_data:

@@ -1,0 +1,31 @@
+Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, and Jianfeng
+Gao. Large language models: A survey, 2024. URL https://arxiv.org/abs/2402.06196.
+Lee Burke, Karl Pazdernik, Daniel Fortin, Benjamin Wilson, Rustam Goychayev, and John Mattingly. Nukelm:
+Pre-trained and fine-tuned language models for the nuclear and energy domains. arXiv:2105.12192, 2021. URL
+https://arxiv.org/abs/2105.12192.
+B. Venkatraman Ayush Jain, N.M. Meenachi. Nukebert: A pre-trained language model for low resource nuclear domain.
+arXiv:2003.13821, 2020. URL https://arxiv.org/abs/2003.13821.
+Viraj Mehta, Joseph Abbate, Allen Wang, Andy Rothstein, Ian Char, Jeff Schneider, Egemen Kolemen, Cristina Rea,
+and Darren Garnier. Towards llms as operational copilots for fusion reactors. In Proceedings of the NeurIPS 2023 AI
+for Science Workshop, New Orleans, Louisiana, USA, December 16 2023.
+Z. Yang, Y. Shen, Y. Zhang, X. Wang, W. Fang, P. Cheng, J. Wei, and D. Schuurmans. Large language models as
+optimizers. arXiv preprint arXiv:2309.03409, 2023.
+J. Wei, X. Wang, D. Schuurmans, M. Bosma, B. Ichter, F. Xia, E. Chi, Q. Le, and D. Zhou. Chain-of-thought prompting
+elicits reasoning in large language models. Advances in Neural Information Processing Systems, 35:24824–24837,
+2022.
+X. Wang, J. Wei, D. Schuurmans, Q. Le, E. Chi, and D. Zhou. Self-consistency improves chain of thought reasoning in
+language models. arXiv preprint arXiv:2203.11171, 2022.
+Riley Cumberland, Ryan Sweet, Ugur Mertyurek, Robert Hall, and William A. Wieselquist. Isotopic and fuel lattice
+parameter trends in extended enrichment and higher burnup lwr fuel: Volume ii: Bwr fuel. Technical Report
+ORNL/TM-2020/1835, Oak Ridge National Laboratory, Oak Ridge, TN, March 2021. URL https://www.nrc.
+gov/docs/ML2108/ML21088A354.pdf.
+Muhammad Rizki Oktavian, Ugur Mertyurek, and Yunlin Xu. Transition Core Modeling for Extended-Enrichment
+Accident-Tolerant Fuels in Light Water Reactors Using PARCS/Polaris. Nuclear Science and Engineering, 197(8):
+2072–2085, 8 2023. ISSN 0029-5639. doi:10.1080/00295639.2022.2162790.
+Ugur Mertyurek and William A. Wieselquist. Assessment of core physics characteristics of extended enrichment and
+higher burnup lwr fuels using the polaris/parcs two-step approach: Vol. 2: Bwr fuel. Technical Report ORNL/TM-
+2022/2444, Oak Ridge National Laboratory, Oak Ridge, TN, August 2023. URL https://www.nrc.gov/docs/
+ML2327/ML23279A041.pdf.
+CASMO-5 User's Manual. Studsvik Scandpower (SSP), Stockholm, Sweden, rev 22 edition, 2022.
+Google-Gemini-Team. Gemini: A family of highly capable multimodal models, 2024. URL https://arxiv.org/
+abs/2312.11805.

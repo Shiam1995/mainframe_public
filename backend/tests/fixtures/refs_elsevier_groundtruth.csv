@@ -1,0 +1,42 @@
+n,title,year
+1,WEST full tungsten operation with an ITER grade divertor,2024
+2,Physics basis and design of the ITER plasma-facing components,2011
+3,Plasma facing components: challenges for nuclear materials,2013
+4,Intelligent resource allocation in LoRaWAN using machine learning techniques,2023
+5,"Know your enemy: conversational agents for security, education, training, and awareness at scale",2023
+6,Natural language processing for systems engineering: automatic generation of systems modelling language diagrams,2023
+7,LLM-commentator: novel fine-tuning strategies of large language models for automatic commentary generation using football event data,2024
+8,DictPrompt: comprehensive dictionary-integrated prompt tuning for pre-trained language model,2023
+9,Prompt-based event relation identification with constrained prefix ATTention mechanism,2023
+10,KEPT: knowledge enhanced prompt tuning for event causality identification,2023
+11,Prompt learning for metonymy resolution: enhancing performance with internal prior knowledge of pre-trained language models,2023
+12,The strong pull of prior knowledge in large language models and its impact on emotion recognition,2024
+13,Microsoft coco: common objects in context,2015
+14,Long plasma duration operation analyses with an international multi-machine (tokamaks and stellarators) database,2023
+15,IR thermography diagnostics for the WEST project,2014
+16,Full coverage infrared thermography diagnostic for WEST machine protection,2019
+17,WEST operation with real time feed back control based on wall component temperature toward machine protection in a steady state tungsten environment,2021
+18,Software platform for imaging diagnostic exploitation applied to edge plasma physics and real-time PFC monitoring,2023
+19,Integrated infrared and visible tangential wide-angle viewing systems for surface temperature measurement and discharge monitoring in EAST,2020
+20,Large language model meets graph neural network in knowledge distillation,2024
+21,Implementation and performance evaluation of the real-time algorithms for Wendelstein 7-X divertor protection system for OP2.1,2023
+22,Thermal event recognition applied to protection of Tokamak plasma-facing components,2010
+23,Deep learning and image processing for the automated analysis of thermal events on the first wall and divertor of fusion reactors,2022
+24,"Deep learning-based process for the automatic detection, tracking, and classification of thermal events on the in-vessel components of fusion reactors",2023
+25,"Protection of the plasma facing components in the WEST tokamak, progress and development in view of ITER",2025
+26,Towards LLMs as operational copilots for fusion reactors,2023
+27,FashionGPT: LLM instruction fine-tuning with multiple LoRA-adapter fusion,2024
+28,Fine-tuning and utilization methods of domain-specific LLMs,2024
+29,LLaVA-med: training a large language-and-vision assistant for biomedicine in one day,2023
+30,Leveraging vision-language models for granular market change prediction,2023
+31,Large language models for time series: a survey,2024
+32,"LLaVA-next: improved reasoning, ocr, and world knowledge",2024
+33,PT-4 technical report,2024
+34,Bleu: a method for automatic evaluation of machine translation,2002
+35,Improved baselines with visual instruction tuning,2024
+36,Learning Transferable visual models from natural language supervision,2021
+37,Multilayer feedforward networks are universal approximators,1989
+38,Is temperature the creativity parameter of large language models?,2024
+39,Vicuna: an open-source chatbot impressing GPT-4 with 90 %* ChatGPT quality,2023
+40,A study of BFLOAT16 for deep learning training,2019
+41,LoRA: low-rank adaptation of large language models,2021

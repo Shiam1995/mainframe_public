@@ -1,0 +1,395 @@
+References
+Abbasi-Yadkori, Y., Kuzborskij, I., György, A., and Szepes-
+vari, C. To believe or not to believe your LLM: Iterative
+prompting for estimating epistemic uncertainty. In Ad-
+vances in Neural Information Processing Systems, 2024.
+Abe, T., Buchanan, E. K., Pleiss, G., Zemel, R., and Cun-
+ningham, J. P. Deep ensembles work, but are they nec-
+essary? In Advances in Neural Information Processing
+Systems, 2022.
+Agarwal, N., Dalal, S. R., and Misra, V. The Bayesian
+geometry of transformer attention. arXiv preprint
+arXiv:2512.22471, 2025a.
+Agarwal, N., Dalal, S. R., and Misra, V. Gradient dynamics
+of attention: How cross-entropy sculpts Bayesian mani-
+folds. arXiv preprint arXiv:2512.22473, 2025b.
+Aichberger, L., Schweighofer, K., Ielanskyi, M., and
+Hochreiter, S. Improving uncertainty estimation through
+semantically diverse language generation. In Interna-
+tional Conference on Learning Representations, 2025.
+Akyürek, E., Schuurmans, D., Andreas, J., Ma, T., and Zhou,
+D. What learning algorithm is in-context learning? Inves-
+tigations with linear models. In International Conference
+on Learning Representations, 2023.
+Alayrac, J.-B., Donahue, J., Luc, P., Miech, A., Barr,
+I., Hasson, Y., Lenc, K., Mensch, A., Millican, K.,
+Reynolds, M., Ring, R., Rutherford, E., Cabi, S., Han, T.,
+Gong, Z., Samangooei, S., Monteiro, M., Menick, J. L.,
+Borgeaud, S., Brock, A., Nematzadeh, A., Sharifzadeh,
+S., Bińkowski, M. a., Barreira, R., Vinyals, O., Zisser-
+man, A., and Simonyan, K. Flamingo: a visual language
+model for few-shot learning. In Advances in Neural In-
+formation Processing Systems, 2022.
+Alquier, P. and Ridgway, J. Concentration of tempered
+posteriors and of their variational approximations. The
+Annals of Statistics, 48(3):1475–1497, 2020.
+Amin, D. Bayesian orchestration of multi-LLM agents for
+cost-aware sequential decision-making. arXiv preprint
+arXiv:2601.01522, 2026.
+Anil, R., Gupta, V., Koren, T., Regan, K., and Singer, Y.
+Scalable second order optimization for deep learning.
+arXiv preprint arXiv:2002.09018, 2021.
+Atwell, K., Heydari, P., Sicilia, A., and Alikhani, M. BASIL:
+Bayesian assessment of sycophancy in LLMs. arXiv
+preprint arXiv:2508.16846, 2026.
+Bakman, Y., Kang, S., Huang, Z., Yaldiz, D. N., Belém,
+C. G., Zhu, C., Kumar, A., Samuel, A., Avestimehr,
+S., Liu, D., and Karimireddy, S. P. Uncertainty as
+feature gaps: Epistemic uncertainty quantification of
+LLMs in contextual question-answering. arXiv preprint
+arXiv:2510.02671, 2025.
+Balestriero, R. and LeCun, Y. LeJEPA: Provable and scal-
+able self-supervised learning without the heuristics. arXiv
+preprint arXiv:2511.08544, 2025.
+Belavkin, R. V. Bounds of optimal learning. In 2009 IEEE
+Symposium on Adaptive Dynamic Programming and Re-
+inforcement Learning, pp. 199–204, 2009.
+Bengio, Y., Lahlou, S., Deleu, T., Hu, E. J., Tiwari, M., and
+Bengio, E. GFlowNet foundations. Journal of Machine
+Learning Research, 24(210):1–55, 2023.
+Bengio, Y., Cohen, M. K., Malkin, N., MacDermott, M.,
+Fornasiere, D., Greiner, P., and Kaddar, Y. Can a Bayesian
+oracle prevent harm from an agent? In Conference on
+Uncertainty in Artificial Intelligence, 2025.
+Berger, J. O. Statistical decision theory and Bayesian anal-
+ysis. Springer Science & Business Media, 2nd edition,
+1985.
+Bissiri, P. G., Holmes, C. C., and Walker, S. G. A general
+framework for updating belief distributions. Journal of
+the Royal Statistical Society Series B: Statistical Method-
+ology, 78(5):1103–1130, 2016.
+Blundell, C., Cornebise, J., Kavukcuoglu, K., and Wierstra,
+D. Weight uncertainty in neural network. In International
+Conference on Machine Learning, 2015.
+10
+should be Bayes-consistent
+Borsos, Z., Marinier, R., Vincent, D., Kharitonov, E.,
+Pietquin, O., Sharifi, M., Roblek, D., Teboul, O., Grang-
+ier, D., Tagliasacchi, M., and Zeghidour, N. Audi-
+oLM: A language modeling approach to audio genera-
+tion. IEEE/ACM Transactions on Audio, Speech, and
+Language Processing, 31:2523–2533, 2023.
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D.,
+Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G.,
+Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G.,
+Henighan, T., Child, R., Ramesh, A., Ziegler, D., Wu, J.,
+Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M.,
+Gray, S., Chess, B., Clark, J., Berner, C., McCandlish,
+S., Radford, A., Sutskever, I., and Amodei, D. Language
+models are few-shot learners. In Advances in Neural
+Information Processing Systems, 2020.
+Cesa-Bianchi, N. and Lugosi, G. Prediction, Learning, and
+Games. Cambridge University Press, 2006.
+Chen, X., Wang, X., Changpinyo, S., Piergiovanni, A.,
+Padlewski, P., Salz, D., Goodman, S., Grycner, A.,
+Mustafa, B., Beyer, L., Kolesnikov, A., Puigcerver, J.,
+Ding, N., Rong, K., Akbari, H., Mishra, G., Xue, L.,
+Thapliyal, A. V., Bradbury, J., Kuo, W., Seyedhosseini,
+M., Jia, C., Ayan, B. K., Ruiz, C. R., Steiner, A. P., An-
+gelova, A., Zhai, X., Houlsby, N., and Soricut, R. PaLI:
+A jointly-scaled multilingual language-image model. In
+International Conference on Learning Representations,
+2023.
+Chlon, L., Rashidi, S., Khamis, Z., and Awada, M. M. LLMs
+are Bayesian, in expectation, not in realization. arXiv
+preprint arXiv:2507.11768, 2025.
+DeGroot, M. H. Optimal statistical decisions. John Wiley
+& Sons, 2004.
+Dern, N., Cunningham, J. P., and Pleiss, G. Theoretical lim-
+itations of ensembles in the age of overparameterization.
+In International Conference on Machine Learning, 2025.
+Du, Y., Li, S., Torralba, A., Tenenbaum, J. B., and Mordatch,
+I. Improving factuality and reasoning in language models
+through multiagent debate. In International Conference
+on Machine Learning, 2024.
+Dziugaite, G. K. and Roy, D. M. Computing nonvacuous
+generalization bounds for deep (stochastic) neural net-
+works with many more parameters than training data.
+In Conference on Uncertainty in Artificial Intelligence,
+2017.
+Entezari, R., Sedghi, H., Saukh, O., and Neyshabur, B. The
+role of permutation invariance in linear mode connectiv-
+ity of neural networks. In International Conference on
+Learning Representations, 2022.
+Falck, F., Wang, Z., and Holmes, C. C. Is in-context learn-
+ing in large language models Bayesian? A martingale per-
+spective. In International Conference on Machine Learn-
+ing, 2024.
+Frankle, J., Dziugaite, G. K., Roy, D., and Carbin, M. Linear
+mode connectivity and the lottery ticket hypothesis. In
+International Conference on Machine Learning, 2020.
+Freund, Y. and Schapire, R. E. A decision-theoretic gener-
+alization of on-line learning and an application to boost-
+ing. Journal of Computer and System Sciences, 55(1):
+119–139, 1997.
+Fu, H., Yu, S., Littman, M., and Konidaris, G. Model-
+based lifelong reinforcement learning with Bayesian ex-
+ploration. In Advances in Neural Information Processing
+Systems, 2022.
+Gal, Y. and Ghahramani, Z. Dropout as a Bayesian approxi-
+mation: Representing model uncertainty in deep learning.
+In International Conference on Machine Learning, 2016.
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B.,
+Vehtari, A., and Rubin, D. B. Bayesian Data Analysis.
+CRC Press, 3rd edition, 2013.
+Gittins, J., Glazebrook, K., and Weber, R. Multi-armed
+bandit allocation indices. John Wiley & Sons, 2011.
+Graves, A. Practical variational inference for neural net-
+works. Advances in Neural Information Processing Sys-
+tems, 2011.
+Gupta, R., Corona, R., Ge, J., Wang, E., Klein, D., Darrell,
+T., and Chan, D. M. Enough coin flips can make LLMs
+act Bayesian. In Annual Meeting of the Association for
+Computational Linguistics, 2025.
+Ha, D. and Schmidhuber, J. World models. arXiv preprint
+arXiv:1803.10122, 2018.
+Hao, S., Sukhbaatar, S., Su, D., Li, X., Hu, Z., Weston, J. E.,
+and Tian, Y. Training large language models to reason in
+a continuous latent space. In Conference on Language
+Modeling, 2025.
+Hennig, P., Osborne, M. A., and Kersting, H. P. Probabilis-
+tic Numerics: Computation as Machine Learning. Cam-
+bridge University Press, 2022.
+Hinton, G. E. and Van Camp, D. Keeping the neural net-
+works simple by minimizing the description length of the
+weights. In Conference on Computational Learning The-
+ory, 1993.
+Howard, R. A. Information value theory. IEEE Transactions
+on Systems Science and Cybernetics, 2(1):22–26, 1966.
+should be Bayes-consistent
+Huang, D., Zhang, J. M., Luck, M., Bu, Q., Qing, Y., and
+Cui, H. AgentCoder: Multi-agent-based code generation
+with iterative testing and optimisation. arXiv preprint
+arXiv:2312.13010, 2024.
+Islam, M. A., Ali, M. E., and Parvez, M. R. CodeSim:
+Multi-agent code generation and problem solving through
+simulation-driven planning and debugging. In Nations
+of the Americas Chapter of the Association for Computa-
+tional Linguistics, 2025.
+Izmailov, P., Vikram, S., Hoffman, M. D., and Wilson, A. G.
+What are Bayesian neural network posteriors really like?
+In International Conference on Machine Learning, 2021.
+Jayasekera, I. S., Si, J., Valdettaro, F., Chen, W., Faisal,
+A. A., and Li, Y. Variational uncertainty decomposition
+for in-context learning. In Advances in Neural Informa-
+tion Processing Systems, 2025.
+Jordan, K., Jin, Y., Boza, V., Jiacheng, Y., Cesista, F., New-
+house, L., and Bernstein, J. Muon: An optimizer for
+hidden layers in neural networks, 2024. URL https:
+//kellerjordan.github.io/posts/muon/.
+Kaddour, J., Patel, S., Dovonon, G., Richter, L., Minervini,
+P., and Kusner, M. J. Agentic uncertainty reveals agentic
+overconfidence. arXiv preprint arXiv:2602.06948, 2026.
+Karan, A. and Du, Y. Reasoning with sampling: Your
+base model is smarter than you think. arXiv preprint
+arXiv:2510.14901, 2025.
+Khan, M., Nielsen, D., Tangkaratt, V., Lin, W., Gal, Y., and
+Srivastava, A. Fast and scalable Bayesian deep learning
+by weight-perturbation in Adam. In International Con-
+ference on Machine Learning, 2018.
+Khan, M. E. Knowledge adaptation as posterior correction.
+arXiv preprint arXiv:2506.14262, 2025.
+Khan, M. E. and Rue, H. The Bayesian learning rule. Jour-
+nal of Machine Learning Research, 24(281):1–46, 2023.
+Kirsch, A. (Implicit) ensembles of ensembles: Epistemic
+uncertainty collapse in large models. Transactions on
+Machine Learning Research, pp. 2835–8856, 2025.
+Kuhn, L., Gal, Y., and Farquhar, S. Semantic uncertainty:
+Linguistic invariances for uncertainty estimation in natu-
+ral language generation. In International Conference on
+Learning Representations, 2023.
+Lakshminarayanan, B., Pritzel, A., and Blundell, C. Simple
+and scalable predictive uncertainty estimation using deep
+ensembles. In Advances in Neural Information Process-
+ing Systems, 2017.
+LeCun, Y. A path towards autonomous machine intelligence.
+OpenReview, 2022.
+Liu, O., Fu, D., Yogatama, D., and Neiswanger, W.
+DeLLMa: Decision making under uncertainty with large
+language models. In International Conference on Learn-
+ing Representations, 2025.
+Lotfi, S., Izmailov, P., Benton, G., Goldblum, M., and Wil-
+son, A. G. Bayesian model selection, the marginal likeli-
+hood, and generalization. In International Conference on
+Machine Learning, 2022.
+Lotfi, S., Finzi, M. A., Kuang, Y., Rudner, T. G. J., Gold-
+blum, M., and Wilson, A. G. Non-vacuous generalization
+bounds for large language models. In International Con-
+ference on Machine Learning, 2024.
+Luo, Y., Jiang, J., Feng, J., Tao, L., Zhang, Q., Wen, X.,
+Sun, Y., Zhang, S., and Pei, D. From observability
+data to diagnosis: An evolving multi-agent system for
+incident management in cloud systems. arXiv preprint
+arXiv:2510.24145, 2025.
+Mackay, D. J. C. Bayesian methods for adaptive models.
+PhD thesis, California Institute of Technology, 1992.
+Maddox, W. J., Izmailov, P., Garipov, T., Vetrov, D. P., and
+Wilson, A. G. A simple baseline for Bayesian uncertainty
+in deep learning. In Advances in Neural Information
+Processing Systems, 2019.
+Malinin, A. and Gales, M. Uncertainty estimation in autore-
+gressive structured prediction. In International Confer-
+ence on Learning Representations, 2021.
+Mandt, S., Hoffman, M. D., and Blei, D. M. Stochastic gra-
+dient descent as approximate Bayesian inference. Jour-
+nal of Machine Learning Research, 18(134):1–35, 2017.
+Mikulik, V., Delétang, G., McGrath, T., Genewein, T., Mar-
+tic, M., Legg, S., and Ortega, P. Meta-trained agents im-
+plement Bayes-optimal agents. In Advances in Neural
+Information Processing Systems, 2020.
+Nabarro, S., Ganev, S. K., Garriga-Alonso, A., Fortuin, V.,
+van der Wilk, M., and Aitchison, L. Data augmentation
+in Bayesian neural networks and the cold posterior effect.
+In Conference on Uncertainty in Artificial Intelligence,
+2022.
+Neal, R. M. Bayesian learning for neural networks. Lecture
+Notes in Statistics. Springer New York, 1996.
+Noci, L., Roth, K., Bachmann, G., Nowozin, S., and Hof-
+mann, T. Disentangling the roles of curation, data-
+augmentation and the prior in the cold posterior effect.
+In Advances in Neural Information Processing Systems,
+2021.
+should be Bayes-consistent
+Ong, I., Almahairi, A., Wu, V., Chiang, W.-L., Wu, T., Gon-
+zalez, J. E., Kadous, M. W., and Stoica, I. RouteLLM:
+Learning to route LLMs from preference data. In Inter-
+national Conference on Learning Representations, 2025.
+Ortega, P. A., Wang, J. X., Rowland, M., Genewein, T.,
+Kurth-Nelson, Z., Pascanu, R., Heess, N., Veness, J.,
+Pritzel, A., Sprechmann, P., Jayakumar, S. M., McGrath,
+T., Miller, K., Azar, M., Osband, I., Rabinowitz, N.,
+György, A., Chiappa, S., Osindero, S., Teh, Y. W., van
+Hasselt, H., de Freitas, N., Botvinick, M., and Legg, S.
+Meta-learning of sequential strategies. arXiv preprint
+arXiv:1905.03030, 2019.
+Osawa, K., Swaroop, S., Khan, M. E., Jain, A., Eschen-
+hagen, R., Turner, R. E., and Yokota, R. Practical deep
+learning with Bayesian principles. In Advances in Neural
+Information Processing Systems, 2019.
+Papamarkou, T., Skoularidou, M., Palla, K., Aitchison, L.,
+Arbel, J., Dunson, D., Filippone, M., Fortuin, V., Hennig,
+P., Hernández-Lobato, J. M., Hubin, A., Immer, A., Kar-
+aletsos, T., Khan, M. E., Kristiadi, A., Li, Y., Mandt, S.,
+Nemeth, C., Osborne, M. A., Rudner, T. G. J., Rügamer,
+D., Teh, Y. W., Welling, M., Wilson, A. G., and Zhang, R.
+Position: Bayesian deep learning is needed in the age of
+large-scale AI. In International Conference on Machine
+Learning, 2024.
+Peterson, C. and Anderson, J. R. A mean field theory learn-
+ing algorithm for neural networks. Complex Systems, 1
+(5):995–1019, 1987.
+Pituk, G., Shirvaikar, V., and Rainforth, T. Do Bayesian
+neural networks actually behave like Bayesian models?
+In International Conference on Machine Learning, 2025.
+Qiu, L., Sha, F., Allen, K., Kim, Y., Linzen, T., and van
+Steenkiste, S. Bayesian teaching enables probabilistic
+reasoning in large language models. Nature Communica-
+tions, 2026.
+Reuter, A., Rudner, T. G. J., Fortuin, V., and Rügamer, D.
+Can transformers learn full Bayesian inference in context?
+In International Conference on Machine Learning, 2025.
+Russo, D. and Van Roy, B. Learning to optimize via poste-
+rior sampling. Mathematics of Operations Research, 39
+(4):1221–1243, 2014.
+Särkkä, S. Bayesian Filtering and Smoothing. Cambridge
+University Press, 2014.
+Saul, L. K., Jaakkola, T., and Jordan, M. I. Mean field
+theory for sigmoid belief networks. Journal of Artificial
+Intelligence Research, 4(1):61–76, 1996.
+Schick, T., Dwivedi-Yu, J., Dessi, R., Raileanu, R., Lomeli,
+M., Hambro, E., Zettlemoyer, L., Cancedda, N., and
+Scialom, T. Toolformer: Language models can teach
+themselves to use tools. In Advances in Neural Informa-
+tion Processing Systems, 2023.
+Sharma, E., Kwok, D., Denton, T., Roy, D. M., Rolnick, D.,
+and Dziugaite, G. K. Simultaneous linear connectivity
+of neural networks modulo permutation. In Joint Euro-
+pean Conference on Machine Learning and Knowledge
+Discovery in Databases, 2024.
+Shen, Y., Daheim, N., Cong, B., Nickl, P., Marconi, G. M.,
+Raoul, B. C. E. M., Yokota, R., Gurevych, I., Cremers,
+D., Khan, M. E., and Möllenhoff, T. Variational learning
+is effective for large deep networks. In International
+Conference on Machine Learning, 2024.
+Shinn, N., Cassano, F., Gopinath, A., Narasimhan, K., and
+Yao, S. Reflexion: language agents with verbal reinforce-
+ment learning. In Advances in Neural Information Pro-
+cessing Systems, 2023.
+Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L.,
+van den Driessche, G., Schrittwieser, J., Antonoglou, I.,
+Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe,
+D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T.,
+Leach, M., Kavukcuoglu, K., Graepel, T., and Hassabis,
+D. Mastering the game of Go with deep neural networks
+and tree search. Nature, 529(7587):484–489, 2016.
+Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou,
+I., Huang, A., Guez, A., Hubert, T., Baker, L., Lai, M.,
+Bolton, A., Chen, Y., Lillicrap, T., Hui, F., Sifre, L.,
+van den Driessche, G., Graepel, T., and Hassabis, D.
+Mastering the game of Go without human knowledge.
+Nature, 550(7676):354–359, 2017.
+Silver, D., Hubert, T., Schrittwieser, J., Antonoglou, I., Lai,
+M., Guez, A., Lanctot, M., Sifre, L., Kumaran, D., Grae-
+pel, T., Lillicrap, T., Simonyan, K., and Hassabis, D. A
+general reinforcement learning algorithm that masters
+chess, shogi, and Go through self-play. Science, 362
+(6419):1140–1144, 2018.
+Smith, J. Q. Bayesian decision analysis: principles and
+practice. Cambridge University Press, 2010.
+Stratonovich, R. L. On value of information. Izvestiya of
+USSR Academy of Sciences, Technical Cybernetics, (5):
+3–12, 1965.
+Suri, M., Mathur, P., Lipka, N., Dernoncourt, F., Rossi,
+R. A., and Manocha, D.
+ Structured uncertainty
+guided clarification for LLM agents. arXiv preprint
+arXiv:2511.08798, 2025.
+13
+should be Bayes-consistent
+Thompson, W. R. On the likelihood that one unknown
+probability exceeds another in view of the evidence of
+two samples. Biometrika, 25(3-4):285–294, 1933.
+Varin, C., Reid, N., and Firth, D. An overview of composite
+likelihood methods. Statistica Sinica, 21(1):5–42, 2011.
+Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B.,
+Xia, F., Chi, E., Le, Q. V., and Zhou, D. Chain-of-thought
+prompting elicits reasoning in large language models.
+In Advances in Neural Information Processing Systems,
+2022.
+Wen, B., Yao, J., Feng, S., Xu, C., Tsvetkov, Y., Howe, B.,
+and Wang, L. L. Know your limits: A survey of abstention
+in large language models. Transactions of the Association
+for Computational Linguistics, 13:529–556, 2025.
+Wenzel, F., Roth, K., Veeling, B., Światkowski, ˛
+ J., Tran,
+L., Mandt, S., Snoek, J., Salimans, T., Jenatton, R., and
+Nowozin, S. How good is the Bayes posterior in deep
+neural networks really? In International Conference on
+Machine Learning, 2020.
+Wilson, A. G. and Izmailov, P. Bayesian deep learning and
+a probabilistic perspective of generalization. In Advances
+in Neural Information Processing Systems, 2020.
+Xie, S. M., Raghunathan, A., Liang, P., and Ma, T. An ex-
+planation of in-context learning as implicit Bayesian in-
+ference. In International Conference on Learning Repre-
+sentations, 2022.
+Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan,
+K., and Cao, Y. React: Synergizing reasoning and act-
+ing in language models. In International Conference on
+Learning Representations, 2023.
+Yin, S., Fu, C., Zhao, S., Li, K., Sun, X., Xu, T., and Chen, E.
+A survey on multimodal large language models. National
+Science Review, 11(12):nwae403, 2024.
+Zhang, G., Sun, S., Duvenaud, D., and Grosse, R. Noisy
+natural gradient as variational inference. In International
+Conference on Machine Learning, 2018.

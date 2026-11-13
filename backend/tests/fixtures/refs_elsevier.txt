@@ -1,0 +1,140 @@
+[1] J. Bucalossi, A. Ekedahl, et al., et al., WEST full tungsten operation with an ITER
+grade divertor, Nucl. Fusion 64 (11) (2024) 112022. Publisher: IOP Publishing,
+https://doi.org/10.1088/1741-4326/ad64e5
+[2] R.A. Pitts, S. Carpentier, F. Escourbiac, T. Hirai, V. Komarov, A.S. Kukushkin, S.
+Lisgo, A. Loarte, M. Merola, R. Mitteau, Physics basis and design of the ITER plasma-
+facing components, J. Nucl. Mater. 415 (1) (2011) S957–S964. Publisher: Elsevier.
+https://doi.org/10.1016/j.jnucmat.2011.01.114
+[3] P. Magaud, J. Bucalossi, A. Li Puma, M. Missirlian, M. Richou, et al., Plasma fac-
+ing components: challenges for nuclear materials, EPJ Web Conf. 51 (2013) 04005.
+https://doi.org/10.1051/epjconf/20135104005
+[4] S.U. Minhaj, A. Mahmood, S.F. Abedin, S.A. Hassan, M.T. Bhatti, S.H. Ali, M. Gid-
+lund, Intelligent resource allocation in LoRaWAN using machine learning tech-
+niques, IEEE Access 11 (2023) 10092–10106. https://doi.org/10.1109/ACCESS.
+2023.3240308
+[5] J.S. Giboney, R.M. Schuetzler, G.M. Grimes, Know your enemy: conversational
+agents for security, education, training, and awareness at scale, Comput. Secur. 129
+(2023) 103207. https://doi.org/10.1016/j.cose.2023.103207
+[6] S. Zhong, A. Scarinci, A. Cicirello, Natural language processing for systems engineer-
+ing: automatic generation of systems modelling language diagrams, Knowl. Based
+Syst. 259 (2023) 110071. https://doi.org/10.1016/j.knosys.2022.110071
+[7] A. Cook, O. Karakuş, LLM-commentator: novel ﬁne-tuning strategies of large lan-
+guage models for automatic commentary generation using football event data,
+Knowl. Based Syst. 300 (2024) 112219. https://doi.org/10.1016/j.knosys.2024.
+112219
+8] R. Cao, et al., DictPrompt: comprehensive dictionary-integrated prompt tuning for
+pre-trained language model, Knowl. Based Syst. 273 (2023) 110605. https://doi.
+org/10.1016/j.knosys.2023.110605
+[9] H. Zhang, W. Ke, J. Zhang, Z. Luo, H. Ma, Z. Luan, P. Wang, Prompt-based event
+relation identiﬁcation with constrained preﬁx ATTention mechanism, Knowl. Based
+Syst. 281 (2023) 111072. https://doi.org/10.1016/j.knosys.2023.111072
+[10] J. Liu, Z. Zhang, Z. Guo, L. Jin, X. Li, K. Wei, X. Sun, KEPT: knowledge enhanced
+prompt tuning for event causality identiﬁcation, Knowl. Based Syst. 259 (2023)
+110064. https://doi.org/10.1016/j.knosys.2022.110064
+[11] B. Zhao, W. Jin, Y. Zhang, S. Huang, G. Yang, Prompt learning for metonymy resolu-
+tion: enhancing performance with internal prior knowledge of pre-trained language
+models, Knowl. Based Syst. 279 (2023) 110928. https://doi.org/10.1016/j.knosys.
+2023.110928
+[12] G. Chochlakis, A. Potamianos, K. Lerman, S. Narayanan, et al., The strong pull of
+prior knowledge in large language models and its impact on emotion recognition,
+2024, arXiv:2403.17125
+[13] T.-Y. Lin, Microsoft coco: common objects in context, 2015 arXiv:1405.0312. https:
+//doi.org/10.48550/arXiv.1405.0312
+[14] X. Litaudon, H.-S. Bosch, T. Morisaki, M. Barbarino, A. Bock, E. Belonohy, S. Brezin-
+sek, J. Bucalossi, S. Coda, R. Daniel, A. Ekedahl, K. Hanada, C. Holcomb, J. Huang,
+S. Ide, M. Jakubowski, B.V. Kuteev, E. Lerche, T. Luce, P. Maget, Y. Song, J. Sto-
+ber, D.V. Houtte, Y. Xi, L. Xue, S. Yoon, B. Zhang, J.E.T. contributors, et al., Long
+plasma duration operation analyses with an international multi-machine (tokamaks
+and stellarators) database, Nucl. Fusion 64 (1) (2023) 015001. Publisher: IOP Pub-
+lishing. https://doi.org/10.1088/1741-4326/ad0606
+[15] X. Courtois, M.H. Aumeunier, M. Joanny, H. Roche, F. Micolon, S. Salasca, C.
+Balorin, M. Jouve, IR thermography diagnostics for the WEST project, Fusion Eng.
+Des. 89 (9) (2014) 2472–2476. https://doi.org/10.1016/j.fusengdes.2014.01.022
+[16] X. Courtois, M. Aumeunier, C. Balorin, J.B. Migozzi, M. Houry, K. Blanckaert, Y.
+Moudden, C. Pocheau, A. Saille, E. Hugot, M. Marcos, S. Vives, Full coverage infrared
+thermography diagnostic for WEST machine protection, Fusion Eng. Des. 146 (2019)
+2015–2020. https://doi.org/10.1016/j.fusengdes.2019.03.090
+[17] R. Mitteau, C. Belaldil, C. Balorin, X. Courtois, V. Moncada, R. Nouailletas, B.
+Santraine, et al., WEST operation with real time feed back control based on wall com-
+ponent temperature toward machine protection in a steady state tungsten environ-
+ment, 2021, arXiv:2101.01914. https://doi.org/10.1016/j.fusengdes.2020.112223
+[18] V. Moncada, X. Courtois, L. Dubus, E. Grelier, M. Houry, A.P. Sitjes, B. Zhang, Soft-
+ware platform for imaging diagnostic exploitation applied to edge plasma physics
+and real-time PFC monitoring, Fusion Eng. Des. 190 (2023) 113528. https://doi.
+org/10.1016/j.fusengdes.2023.113528
+[19] M.W. Chen, X.F. Yang, X.Z. Gong, K.F. Gan, B. Zhang, Z.D. Yang, Integrated infrared
+and visible tangential wide-angle viewing systems for surface temperature mea-
+surement and discharge monitoring in EAST, Fusion Eng. Des. 150 (2020) 111415.
+https://doi.org/10.1016/j.fusengdes.2019.111415
+[20] S. Hu, 2024, Large language model meets graph neural network in knowledge distil-
+lation, arXiv:2402.05894 version: 2, https://doi.org/10.48550/arXiv.2402.05894
+[21] B. Jabłoński, A.P. Sitjes, D. Makowski, M. Jakubowski, Y. Gao, S. Fischer, A. Winter,
+Implementation and performance evaluation of the real-time algorithms for Wendel-
+stein 7-X divertor protection system for OP2.1, Fusion Eng. Des. 190 (2023) 113524.
+https://doi.org/10.1016/j.fusengdes.2023.113524
+[22] V. Martin, J.-M. Travere, F. Bremond, V. Moncada, G. Dunand, et al., Thermal
+event recognition applied to protection of Tokamak plasma-facing components, IEEE
+Trans. Instrum. Meas. 59 (2010) 1182–1191. https://doi.org/10.1109/TIM.2009.
+2038032
+[23] E. Grelier, R. Mitteau, V. Moncada, et al., Deep learning and image processing for
+the automated analysis of thermal events on the ﬁrst wall and divertor of fusion
+reactors, Plasma Phys. Controlled Fusion 64 (10) (2022) 104010. Publisher: IOP
+Publishing. https://doi.org/10.1088/1361-6587/ac9015
+[24] E. Grelier, R. Mitteau, V. Moncada, Deep learning-based process for the automatic
+detection, tracking, and classiﬁcation of thermal events on the in-vessel components
+of fusion reactors, Fusion Eng. Des. 192 (2023) 113636. https://doi.org/10.1016/j.
+fusengdes.2023.113636
+[25] M. Houry, M.-H. Aumeunier, Y. Corre, X. Courtois, R. Mitteau, T. Loarer, L. Dubus,
+E. Gauthier, J. Gerardin, V. Gorse, E. Grelier, P. Malard, V. Moncada, S. Vives, J.
+Gaspar, A. Juven, Q. Tichit, Protection of the plasma facing components in the WEST
+tokamak, progress and development in view of ITER, Nucl. Fusion 65 (1) (2025)
+016059. https://doi.org/10.1088/1741-4326/ad961b.
+[26] V. Mehta, J. Abbate, A. Wang, A. Rothstein, I. Char, J. Schneider, E. Kolemen, C.
+Rea, D. Garnier, et al., Towards LLMs as operational copilots for fusion reactors,
+Poster, NeurIPS 2023 Workshop on AI for Science, 2023.
+[27] D. Gao, Y. Ma, S. Liu, M. Song, L. Jin, W. Jiang, X. Wang, W. Ning, S. Yu, Q. Xuan, X.
+Cai, L. Yang, FashionGPT: LLM instruction ﬁne-tuning with multiple LoRA-adapter
+fusion, Knowl. Based Syst. 299 (2024) 112043. https://doi.org/10.1016/j.knosys.
+2024.112043
+[28] C. Jeong, Fine-tuning and utilization methods of domain-speciﬁc LLMs, 2024,
+arXiv:2401.02981
+[29] C. Li, C. Wong, S. Zhang, N. Usuyama, H. Liu, J. Yang, T. Naumann, H. Poon, J. Gao,
+et al., LLaVA-med: training a large language-and-vision assistant for biomedicine in
+one day, 2023, arXiv:2306.00890. https://doi.org/10.48550/arXiv.2306.00890
+[30] C. Wimmer, N. Rekabsaz, Leveraging vision-language models for granular market
+change prediction, 2023, arXiv:2301.10166, https://doi.org/10.48550/arXiv.2301.
+10166
+[31] X. Zhang, R.R. Chowdhury, R.K. Gupta, J. Shang, et al., Large language models
+for time series: a survey, 2024, arXiv:2402.01801, https://doi.org/10.48550/arXiv.
+2402.01801
+[32] H. Liu, C. Li, Y. Li, B. Li, Y. Zhang, S. Shen, Y.J. Lee, LLaVA-next: improved reasoning,
+ocr, and world knowledge, 2024.
+[33] OpenAI, 2024, PT-4 technical report, arXiv:2303.08774, https://doi.org/10.48550/
+arXiv.2303.08774
+[34] K. Papineni, 2002, Bleu: a method for automatic evaluation of machine transla-
+tion, In: Proceedings of the 40th Annual Meeting of the Association for Compu-
+tational Linguistics P.Isabelle, E.Charniak, D.Lin (Eds.), Association for Computa-
+tional Linguistics, Philadelphia, Pennsylvania, USA, 311–318, https://doi.org/10.
+3115/1073083.1073135
+[35] H. Liu, C. Li, Y. Li, Y.J. Lee, Improved baselines with visual instruction tuning, 2024,
+arXiv:2310.03744. https://doi.org/10.48550/arXiv.2310.03744
+[36] A. Radford, J.W. Kim, C. Hallacy, A. Ramesh, G. Goh, S. Agarwal, G. Sastry, A.
+Askell, P. Mishkin, J. Clark, G. Krueger, I. Sutskever, et al., Learning Transferable
+visual models from natural language supervision, 2021, arXiv:2103.00020. https:
+//doi.org/10.48550/arXiv.2103.00020
+[37] K. Hornik, M. Stinchcombe, H. White, Multilayer feedforward networks are univer-
+sal approximators, Neural Netw. 2 (5) (1989) 359–366. https://doi.org/10.1016/
+0893-6080(89)90020-8
+[38] M. Peeperkorn, Is temperature the creativity parameter of large language models?,
+2024, arXiv:2405.00492, https://doi.org/10.48550/arXiv.2405.00492
+[39] W.-L. Chiang, Z. Li, Z. Lin, Y. Sheng, Z. Wu, H. Zhang, L. Zheng, S. Zhuang,
+Y. Zhuang, J.E. Gonzalez, I. Stoica, E.P. Xing, Vicuna: an open-source chatbot
+impressing GPT-4 with 90 %* ChatGPT quality, 2023. https://lmsys.org/blog/
+2023-03-30-vicuna/.
+[40] D. Kalamkar, D. Mudigere, N. Mellempudi, D. Das, K. Banerjee, S. Avancha, D.T.
+Vooturi, N. Jammalamadaka, J. Huang, H. Yuen, J. Yang, J. Park, A. Heinecke, E.
+Georganas, S. Srinivasan, A. Kundu, M. Smelyanskiy, B. Kaul, P. Dubey, A study of
+BFLOAT16 for deep learning training, 2019, arXiv:1905.12322. https://doi.org/10.
+48550/arXiv.1905.12322
+[41] E.J. Hu, Y. Shen, P. Wallis, Z. Allen-Zhu, Y. Li, S. Wang, L. Wang, W. Chen, LoRA:
+low-rank adaptation of large language models, 2021.

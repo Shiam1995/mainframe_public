@@ -1,0 +1,29 @@
+# Paper Metabolism — backend dependencies
+# Local-first: nothing here calls a cloud API. The LLM runs on local Ollama;
+# PDF parsing is local. Network egress is localhost (Neo4j, Ollama) plus ONE
+# spec'd exception: Crossref/OpenAlex citation resolution (synapse/references,
+# uses httpx below — no extra dependency).
+
+fastapi==0.115.6          # HTTP API + serves the static frontend
+uvicorn[standard]==0.34.0 # ASGI server (localhost:8000)
+neo4j==5.27.0             # official Neo4j driver — the ONLY data layer (Cypher)
+pydantic==2.10.4          # request/response models + validation
+pydantic-settings==2.7.0  # env/.env-driven config
+PyMuPDF==1.25.1           # local PDF text extraction (import name: fitz)
+httpx==0.28.1             # calls the LOCAL Ollama HTTP endpoint only
+python-multipart==0.0.20  # multipart/form-data (PDF uploads)
+PyYAML==6.0.2             # reads ~/.mainframe/config/settings.yaml
+Pillow==12.3.0            # local image resizing (home-screen wallpaper cache)
+openpyxl==3.1.5           # reads the UK CoFID food tables, which ship as .xlsx
+zxing-cpp==3.1.1          # local barcode decoding (import name: zxingcpp) — reads the
+                          # barcode off a photographed packet so the food catalogue can
+                          # be scanned instead of typed. Self-contained wheel, no system
+                          # libraries, no network, no cloud vision API.
+# Voice assistant — speech recognition on the local GPU. The model downloads
+# once to ~/.cache/huggingface and runs offline thereafter. Speech OUT is the
+# `piper` binary (not a Python package) reading a .onnx voice from
+# ~/.mainframe/voices/. No cloud speech service is used anywhere.
+faster-whisper==1.2.1     # CTranslate2 Whisper — local STT on CUDA
+# Dev/test only — nothing at runtime imports it.
+pytest==9.1.1             # test runner (backend/tests). NB: run with PYTHONPATH
+                          # unset — the ROS install leaks broken plugins into it.

@@ -1,0 +1,370 @@
+[1] H. Anand, C. Galperti, S. Coda, B.P. Duval, F. Felici, T. Blanken, E. Maljaars, J.-
+M. Moret, O. Sauter, T.P. Goodman, D. Kim, Distributed digital real-time control
+system for the TCV tokamak and its applications, Nucl. Fusion 57 (2017) 056005,
+http://dx.doi.org/10.1088/1741-4326/aa6120.
+[2] B.G. Penaflor, J.R. Ferron, A.W. Hyatt, M.L. Walker, R.D. Johnson, D.A.
+Piglowski, E. Kolemen, A.S. Welander, M.J. Lanctot, Latest advancements in
+DIII-D plasma control software and hardware, in: 2013 IEEE 25th Symposium
+on Fusion Engineering (SOFE). Presented at the 2013 IEEE 25th Symposium
+on Fusion Engineering, SOFE, IEEE, San Francisco, CA, USA, 2013, pp. 1–4,
+http://dx.doi.org/10.1109/SOFE.2013.6635496.
+[3] M. Cinque, G. De Tommasi, P.C. De Vries, F. Fucci, L. Zabeo, G. Ambrosino,
+S. Bremond, I. Gomez, D. Karkinsky, M. Mattei, R. Nouailletas, A. Pironti, F.G.
+Rimini, J.A. Snipes, W. Treutterer, M.L. Walker, Management of the ITER PCS
+design using a system-engineering approach, IEEE Trans. Plasma Sci. 48 (2020)
+1768–1778, http://dx.doi.org/10.1109/TPS.2019.2945715.
+[4] H. Anand, O. Bardsley, D. Humphreys, M. Lennholm, A. Welander, Z. Xing, J.
+Barr, M. Walker, J. Mitchell, H. Meyer, Modelling, design and simulation of
+plasma magnetic control for the spherical tokamak for energy production (STEP),
+Fusion Eng. Des. 194 (2023) 113724, http://dx.doi.org/10.1016/j.fusengdes.
+2023.113724.
+[5] M. Ariola, A. Pironti, Magnetic control of tokamak plasmas, in: Advances in
+Industrial Control, Springer International Publishing, Cham, 2016, http://dx.doi.
+org/10.1007/978-3-319-29890-0.
+[6] A. Pironti, M. Walker, Fusion, Tokamaks, and plasma control: An introduction
+and tutorial, IEEE Control Syst. 25 (2005) 30–43, http://dx.doi.org/10.1109/
+MCS.2005.1512794.
+[7] O. Gruber, K. Lackner, G. Pautasso, U. Seidel, B. Streibl, Vertical displacement
+events and Halo currents, Plasma Phys. Control. Fusion 35 (1993) B191–B204,
+http://dx.doi.org/10.1088/0741-3335/35/SB/015.
+[8] R. Nouailletas, P. Moreau, B. Santraine, J. Colnel, C. Reux, Y. Moudden, S.
+Darche, N. Amiot, WEST plasma control system status, Fusion Eng. Des. 192
+(2023) 113582, http://dx.doi.org/10.1016/j.fusengdes.2023.113582.
+[9] D. Ganuza, D. Rendell, B. Arenal, J.M. De La Fuente, S.R. Shaw, V. Toigo,
+M. Zulaika, A. Arenal, The design and manufacture of the enhanced radial
+field amplifier (ERFA) for the jet project, Fusion Eng. Des. 84 (2009) 810–814,
+http://dx.doi.org/10.1016/j.fusengdes.2009.02.050.
+[10] T. Bosman, M. Van Berkel, M. De Baar, Constrained model-predictive control of
+the electron density profile in ITER using two pellet injectors, in: 2022 IEEE
+Conference on Control Technology and Applications (CCTA). Presented at the
+2022 IEEE Conference on Control Technology and Applications, CCTA, IEEE,
+Trieste, Italy, 2022, pp. 812–818, http://dx.doi.org/10.1109/CCTA49430.2022.
+9966088.
+[11] T.C. Blanken, F. Felici, C. Galperti, N.M.T. Vu, M. Kong, O. Sauter, M.R.
+De Baar, The EUROfusion MST1 Team, The TCV Team, Real-time plasma state
+monitoring and supervisory control on TCV, Nucl. Fusion 59 (2019) 026017,
+http://dx.doi.org/10.1088/1741-4326/aaf451.
+[12] B. Maljaars, Model Predictive Profile Control and Actuator Management in
+Tokamaks, (Ph.D. thesis), Eindhoven University of Technology, 2017.
+[13] E. Schuster, M. Krstić, G. Tynan, Burn control in fusion reactors via nonlinear
+stabilization techniques, Fusion Sci. Technol. 43 (2003) 18–37, http://dx.doi.
+org/10.13182/FST03-A246.
+[14] K.-D. Zastrow, S.J. Cox, M.G.V. Hellermann, M.G. O'Mullane, D. Stork, M. Brix,
+C.D. Challis, I.H. Coffey, R. Dux, K.H. Finken, C. Giroud, D. Hillis, J.T. Hogan,
+K.D. Lawson, T. Loarer, A.G. Meigs, P.D. Morgan, M.F. Stamp, A.D. Whiteford,
+J.E. Contributors, Helium exhaust experiments on JET with type I ELMs in H-
+mode and with type III elms in ITB discharges, Nucl. Fusion 45 (2005) 163–175,
+http://dx.doi.org/10.1088/0029-5515/45/3/002.
+[15] X. Garbet, Y. Idomura, L. Villard, T.H. Watanabe, Gyrokinetic simulations of
+turbulent transport, Nucl. Fusion 50 (2010) 043002, http://dx.doi.org/10.1088/
+0029-5515/50/4/043002.
+[16] J. Citrin, S. Breton, F. Felici, F. Imbeaux, T. Aniel, J.F. Artaud, B. Baiocchi,
+C. Bourdelle, Y. Camenen, J. Garcia, Real-time capable first principle based
+modelling of Tokamak turbulent transport, Nucl. Fusion 55 (2015) 092001,
+http://dx.doi.org/10.1088/0029-5515/55/9/092001.
+[17] C. Angioni, Impurity transport in Tokamak plasmas, theory, modelling and
+comparison with experiments, Plasma Phys. Control Fusion 63 (2021) 073001,
+http://dx.doi.org/10.1088/1361-6587/abfc9a.
+[18] B. Coppi, M.N. Rosenbluth, R.Z. Sagdeev, Instabilities due to temperature
+gradients in complex magnetic field configurations, Phys. Fluids 10 (1967)
+582–587, http://dx.doi.org/10.1063/1.1762151.
+[19] V. Philipps, R. Neu, J. Rapp, U. Samm, M. Tokar, T. Tanabe, M. Rubel,
+Comparison of Tokamak behaviour with tungsten and low- Z plasma facing
+materials, Plasma Phys. Control. Fusion 42 (2000) B293–B310, http://dx.doi.
+org/10.1088/0741-3335/42/12B/322.
+[20] R. Neu, A. Kallenbach, M. Balden, V. Bobkov, J.W. Coenen, R. Drube, R. Dux,
+H. Greuner, A. Herrmann, J. Hobirk, H. Höhnle, K. Krieger, M. Kočan, P. Lang,
+T. Lunt, H. Maier, M. Mayer, H.W. Müller, S. Potzel, T. Pütterich, J. Rapp, V.
+Rohde, F. Ryter, P.A. Schneider, J. Schweinzer, M. Sertoli, J. Stober, W. Suttrop,
+K. Sugiyama, G. Van Rooij, M. Wischmeier, Overview on plasma operation with
+a full tungsten wall in ASDEX upgrade, J. Nucl. Mater. 438 (2013) S34–S41,
+http://dx.doi.org/10.1016/j.jnucmat.2013.01.006.
+[21] T. Ravensbergen, M. Van Berkel, A. Perek, C. Galperti, B.P. Duval, O. Février,
+R.J.R. Van Kampen, F. Felici, J.T. Lammers, C. Theiler, J. Schoukens, B. Linehan,
+M. Komm, S. Henderson, D. Brida, M.R. De Baar, Real-time feedback control of
+the impurity emission front in Tokamak divertor plasmas, Nature Commun. 12
+(2021) 1105, http://dx.doi.org/10.1038/s41467-021-21268-3.
+[22] J.T.W. Koenders, A. Perek, C. Galperti, B.P. Duval, O. Février, C. Theiler, M.
+Van Berkel, Systematic design of a multi-input multi-output controller by model-
+based decoupling: A demonstration on TCV using multi-species gas injection,
+Nucl. Fusion 63 (2023) 106007, http://dx.doi.org/10.1088/1741-4326/acee0f.
+[23] A. Kallenbach, M. Bernert, M. Beurskens, L. Casali, M. Dunne, T. Eich, L.
+Giannone, A. Herrmann, M. Maraschek, S. Potzel, F. Reimold, V. Rohde, J.
+Schweinzer, E. Viezzer, M. Wischmeier, The ASDEX Upgrade Team, Partial
+detachment of high power discharges in ASDEX upgrade, Nucl. Fusion 55 (2015)
+053026, http://dx.doi.org/10.1088/0029-5515/55/5/053026.
+[24] W. Biel, R. Albanese, R. Ambrosino, M. Ariola, M.V. Berkel, I. Bolshakova,
+K.J. Brunner, R. Cavazzana, M. Cecconello, S. Conroy, A. Dinklage, I. Duran,
+R. Dux, T. Eade, S. Entler, G. Ericsson, E. Fable, D. Farina, L. Figini, C.
+Finotti, Franke. Th, L. Giacomelli, L. Giannone, W. Gonzalez, A. Hjalmarsson,
+M. Hron, F. Janky, A. Kallenbach, J. Kogoj, R. König, O. Kudlacek, R. Luis, A.
+Malaquias, O. Marchuk, G. Marchiori, M. Mattei, F. Maviglia, G. De Masi, D.
+Mazon, H. Meister, K. Meyer, D. Micheletti, S. Nowak, Piron. Ch, A. Pironti,
+N. Rispoli, V. Rohde, G. Sergienko, S.El. Shawish, M. Siccinio, A. Silva, F.Da.
+Silva, C. Sozzi, M. Tardocchi, M. Tokar, W. Treutterer, H. Zohm, Diagnostics for
+plasma control – from ITER to DEMO, Fusion Eng. Des. 146 (2019) 465–472,
+http://dx.doi.org/10.1016/j.fusengdes.2018.12.092.
+[25]
+ A. Murari, F. Pisano, J. Vega, B. Cannas, A. Fanni, S. Gonzalez, M. Gelfusa,
+M. Grosso, JET EFDA Contributors, Extensive statistical analysis of ELMs on
+JET with a carbon wall, Plasma Phys. Control. Fusion 56 (2014) 114007,
+http://dx.doi.org/10.1088/0741-3335/56/11/114007.
+[26]
+ F. Wagner, A quarter-century of H-mode studies, Plasma Phys. Control. Fusion
+49 (2007) B1–B33, http://dx.doi.org/10.1088/0741-3335/49/12B/S01.
+[27]
+ The Jet Team (Presented By F X Söldner), Shear optimization experiments
+with current profile control on JET, Plasma Phys. Control. Fusion 39 (1997)
+B353–B369, http://dx.doi.org/10.1088/0741-3335/39/12B/027.
+[28]
+ J. Hobirk, C.D. Challis, A. Kappatou, E. Lerche, D. Keeling, D. King, S. Aleiferis, E.
+Alessi, C. Angioni, F. Auriemma, M. Baruzzo, É. Belonohy, J. Bernardo, A. Boboc,
+I.S. Carvalho, P. Carvalho, F.J. Casson, A. Chomiczewska, J. Citrin, I.H. Coffey,
+N.J. Conway, D. Douai, E. Delabie, B. Eriksson, J. Eriksson, O. Ficker, A.R. Field,
+M. Fontana, J.M. Fontdecaba, L. Frassinetti, D. Frigione, D. Gallart, J. Garcia,
+M. Gelfusa, Z. Ghani, L. Giacomelli, E. Giovannozzi, C. Giroud, M. Goniche, W.
+Gromelski, S. Hacquin, C. Ham, N.C. Hawkes, R.B. Henriques, J.C. Hillesheim, A.
+Ho, L. Horvath, I. Ivanova-Stanik, P. Jacquet, F. Jaulmes, E. Joffrin, H.T. Kim, V.
+Kiptily, K. Kirov, D. Kos, E. Kowalska-Strzeciwilk, H. Kumpulainen, K. Lawson,
+M. Lennholm, X. Litaudon, E. Litherland-Smith, P.J. Lomas, E. De La Luna, C.F.
+Maggi, J. Mailloux, M.J. Mantsinen, M. Maslov, G. Matthews, K.G. McClements,
+A.G. Meigs, S. Menmuir, A. Milocco, I.G. Miron, S. Moradi, R.B. Morales, S.
+Nowak, F. Orsitto, A. Patel, L. Piron, C. Prince, G. Pucella, E. Peluso, C. Perez
+Von Thun, E. Rachlew, C. Reux, F. Rimini, S. Saarelma, P.A. Schneider, S. Scully,
+M. Sertoli, S. Sharapov, A. Shaw, S. Silburn, A. Sips, P. Siren, C. Sozzi, E.R.
+Solano, Z. Stancar, G. Stankunas, C. Stuart, H.J. Sun, G. Szepesi, D. Valcarcel, M.
+Valisa, G. Verdoolaege, B. Viola, N. Wendler, M. Zerbini, JET Contributors, The
+JET hybrid scenario in deuterium, tritium and deuterium-tritium, Nucl. Fusion
+63 (2023) 112001, http://dx.doi.org/10.1088/1741-4326/acde8d.
+[29]
+ C.A. Orrico, M. van Berkel, T.O.S.J. Bosman, W.P.M.H. Heemels, D. Krishnamoor-
+thy, Mixed-integer MPC strategies for fueling and density control in fusion
+Tokamaks, 2023, http://dx.doi.org/10.1109/LCSYS.2023.3282891.
+[30]
+ J. Degrave, F. Felici, J. Buchli, M. Neunert, B. Tracey, F. Carpanese, T. Ewalds,
+R. Hafner, A. Abdolmaleki, D.de.las. Casas, C. Donner, L. Fritz, C. Galperti, A.
+Huber, J. Keeling, M. Tsimpoukelli, J. Kay, A. Merle, J.-M. Moret, S. Noury, F.
+Pesamosca, D. Pfau, O. Sauter, C. Sommariva, S. Coda, B. Duval, A. Fasoli, P.
+Kohli, K. Kavukcuoglu, D. Hassabis, M. Riedmiller, Magnetic control of Tokamak
+plasmas through deep reinforcement learning, Nature 602 (2022) 414–419,
+http://dx.doi.org/10.1038/s41586-021-04301-9.
+[31]
+ S. Puppin, M.E. Angoletta, D.J. Campbell, J.J. Ellis, M. Garribba, M. Lennholm,
+F. Milani, D. O'Brien, F. Sartori, R. Sartori, Real time control of plasma boundary
+in JET, in: Fusion Technology 1996, Elsevier, 1997, pp. 949–952, http://dx.doi.
+org/10.1016/B978-0-444-82762-3.50206-8.
+[32]
+ P.T. Lang, W. Suttrop, E. Belonohy, M. Bernert, R.M. Mc Dermott, R. Fischer,
+J. Hobirk, O.J.W.F. Kardaun, G. Kocsis, B. Kurzan, M. Maraschek, P. De Marne,
+A. Mlynek, P.A. Schneider, J. Schweinzer, J. Stober, T. Szepesi, K. Thomsen,
+W. Treutterer, E. Wolfrum, The ASDEX Upgrade Team, High-density H-mode
+operation by pellet injection and ELM mitigation with the new active in-vessel
+saddle coils in ASDEX upgrade, Nucl. Fusion 52 (2012) 023017, http://dx.doi.
+org/10.1088/0029-5515/52/2/023017.
+[33]
+ R.J. Buttery, S. Günter, G. Giruzzi, T.C. Hender, D. Howell, G. Huysmans, R.J.L.
+Haye, M. Maraschek, H. Reimerdes, O. Sauter, C.D. Warrick, H.R. Wilson, H.
+Zohm, Neoclassical tearing modes, Plasma Phys. Control. Fusion 42 (2000)
+B61–B73, http://dx.doi.org/10.1088/0741-3335/42/12B/306.
+[34]
+ S.S. Henderson, M. Bernert, D. Brida, M. Cavedon, P. David, R. Dux, O. Février,
+A. Järvinen, A. Kallenbach, M. Komm, R. McDermott, M. O'Mullane, Divertor
+detachment and reattachment with mixed impurity seeding on ASDEX upgrade,
+Nucl. Fusion 63 (2023) 086024, http://dx.doi.org/10.1088/1741-4326/ace2d6.
+[35]
+ P. David, M. Bernert, M. Cavedon, G. Harrer, T. Eich, T. Asdex Upgrade Team,
+Influence of pedestal radiation on the H–L transition using krypton seeded
+discharges at ASDEX upgrade, Nucl. Fusion 62 (2022) 106012, http://dx.doi.
+org/10.1088/1741-4326/ac8942.
+[36]
+ U. Plank, R.M. McDermott, G. Birkenmeier, N. Bonanomi, M. Cavedon, G.D.
+Conway, T. Eich, M. Griener, O. Grover, P.A. Schneider, M. Willensdorfer,
+Overview of L- to H-mode transition experiments at ASDEX upgrade, Plasma
+Phys. Control. Fusion 65 (2023) 014001, http://dx.doi.org/10.1088/1361-6587/
+aca35b.
+[37]
+ M. Ariola, A. Pironti, R. Ambrosino, M. Mattei, W. Biel, T. Franke, Simulation of
+magnetic control of the plasma shape on the DEMO tokamak, Fusion Eng. Des.
+146 (2019) 728–731, http://dx.doi.org/10.1016/j.fusengdes.2019.01.065.
+[38]
+ W. Biel, M. Ariola, I. Bolshakova, K.J. Brunner, M. Cecconello, I. Duran, Franke.
+Th, L. Giacomelli, L. Giannone, F. Janky, A. Krimmer, R. Luis, A. Malaquias,
+G. Marchiori, O. Marchuk, D. Mazon, A. Pironti, A. Quercia, N. Rispoli, S.E.
+Shawish, M. Siccinio, A. Silva, C. Sozzi, G. Tartaglione, T. Todd, W. Treutterer,
+H. Zohm, Development of a concept and basis for the DEMO diagnostic and
+control system, Fusion Eng. Des. 179 (2022) 113122, http://dx.doi.org/10.1016/
+j.fusengdes.2022.113122.
+[39]
+ D. Testa, M. Toussaint, R. Chavan, J. Guterl, J.B. Lister, J.-M. Moret, A. Perez,
+F. Sanchez, B. Schaller, G. Tonetti, A. Encheva, G. Vayakis, C. Walker, Y.
+Fournier, T. Maeder, A. Le-Luyer, Moreau. Ph, G. Chitarin, E. Alessi, R.S. Delogu,
+A. Gallo, N. Marconato, S. Peruzzo, M. Preindl, H. Carfantan, E. Hodgson, J.
+Romero, R. Vila, B. Brichard, L. Vermeeren, The magnetic diagnostic set for
+ITER, IEEE Trans. Plasma Sci. 38 (2010) 284–294, http://dx.doi.org/10.1109/
+TPS.2009.2037226.
+[40]
+ S.A. Sabbagh, J.W. Berkery, Y.S. Park, J. Butt, J.D. Riquezes, J.G. Bak, R.E. Bell,
+L. Delgado-Aparicio, S.P. Gerhardt, C.J. Ham, J. Hollocombe, J.W. Lee, J. Kim, A.
+Kirk, J. Ko, W.H. Ko, L. Kogan, B.P. LeBlanc, J.H. Lee, A. Thornton, S.W. Yoon,
+Disruption event characterization and forecasting in Tokamaks, Phys. Plasmas
+30 (2023) 032506, http://dx.doi.org/10.1063/5.0133825.
+[41]
+ L. Giannone, A.C.C. Sips, O. Kardaun, F. Spreitler, W. Suttrop, T.A.U. Team,
+Regime identification in ASDEX upgrade, Plasma Phys. Control. Fusion 46 (2004)
+835–856, http://dx.doi.org/10.1088/0741-3335/46/5/007.
+[42]
+ E. Joffrin, M. Baruzzo, M. Beurskens, C. Bourdelle, S. Brezinsek, J. Bucalossi, P.
+Buratti, G. Calabro, C.D. Challis, M. Clever, J. Coenen, E. Delabie, R. Dux, P.
+Lomas, E. De La Luna, P. De Vries, J. Flanagan, L. Frassinetti, D. Frigione, C.
+Giroud, M. Groth, N. Hawkes, J. Hobirk, M. Lehnen, G. Maddison, J. Mailloux,
+C.F. Maggi, G. Matthews, M. Mayoral, A. Meigs, R. Neu, I. Nunes, T. Puetterich,
+F. Rimini, M. Sertoli, B. Sieglin, A.C.C. Sips, G. Van Rooij, I. Voitsekhovitch,
+JET-EFDA Contributors, First scenario development with the JET new ITER-like
+wall, Nucl. Fusion 54 (2014) 013011, http://dx.doi.org/10.1088/0029-5515/54/
+1/013011.
+[43]
+ M. Romanelli, G. Corrigan, V. Parail, S. Wiesen, R. Ambrosino, P. Da Silva
+Aresta Belo, L. Garzotti, D. Harting, F. Köchl, T. Koskela, L. Lauro-Taroni, C.
+Marchetto, M. Mattei, E. Militello-Asp, M.F.F. Nave, S. Pamela, A. Salmi, P.
+Strand, G. Szepesi, EFDA-JET Contributors, JINTRAC: A system of codes for
+integrated simulation of Tokamak scenarios, Plasma Fus. Res. 9 (2014) 3403023,
+http://dx.doi.org/10.1585/pfr.9.3403023.
+[44]
+ E. Fable, C. Angioni, M. Siccinio, H. Zohm, Plasma physics for fusion reactor
+system codes: Framework and model code, Fusion Eng. Des. 130 (2018) 131–136,
+http://dx.doi.org/10.1016/j.fusengdes.2018.03.061.
+[45]
+ T.R. Browning, Design structure matrix extensions and innovations: A survey
+and new opportunities, IEEE Trans. Eng. Manage. 63 (2016) 27–52, http://dx.
+doi.org/10.1109/TEM.2015.2491283.
+[46]
+ T. Beernaert, P. Etman, M. De Bock, M. De Baar, I. Classen, Challenges of big-
+science: A matrix-based interface model to manage technical integration risks in
+multi-organizational engineering projects, in: DS 121: Proceedings of the 24th
+International DSM Conference (DSM 2022), Eindhoven, the Netherlands, October,
+(2022) 11-13. Presented at the 24th International DSM Conference, the Design
+Society, 2022, pp. 1–10, http://dx.doi.org/10.35199/dsm2022.01.
+[47]
+ T. Wilschut, System Specification and Design Structuring Methods for a Lock
+Product Platform, (Ph.D. thesis), Eindhoven University of Technology, 2018.
+[48]
+ F.G. Lanzotti, G. Di Gironimo, J. Korzeniowska, V. Imbriani, G. Mazzone, J.-H.
+You, D. Marzullo, Systems engineering procedure for requirements management
+of divertor system of Tokamak reactors, Fusion Eng. Des. 194 (2023) 113917,
+http://dx.doi.org/10.1016/j.fusengdes.2023.113917.
+[49]
+ H. Brooks, A. Davis, Scalable multi-physics for fusion reactors with AURORA,
+Plasma Phys. Control. Fusion 65 (2023) 024002, http://dx.doi.org/10.1088/
+1361-6587/aca998.
+[50]
+ J.S. Gero, Design prototypes: A knowledge representation schema for design, AI
+Mag. 11 (1990) 26–36, http://dx.doi.org/10.1609/aimag.v11i4.854.
+[51]
+ A.Y. Dnestrovskiy, A.S. Kukushkin, B.V. Kuteev, V.Y. Sergeev, Integrated mod-
+elling of core and divertor plasmas for the DEMO fusion neutron source hybrid
+facility, Nucl. Fusion 59 (2019) 096053, http://dx.doi.org/10.1088/1741-4326/
+ab3075.
+[52]
+ S. Smolentsev, G.A. Spagnuolo, A. Serikov, J.J. Rasmussen, A.H. Nielsen, V.
+Naulin, J. Marian, M. Coleman, L. Malerba, On the role of integrated computer
+modelling in fusion technology, Fusion Eng. Des. 157 (2020) 111671, http:
+//dx.doi.org/10.1016/j.fusengdes.2020.111671.
+[53]
+ F. Franza, L.V. Boccaccini, E. Fable, I. Landman, I.A. Maione, S. Petschanyi,
+R. Stieglitz, H. Zohm, MIRA: A multi-physics approach to designing a fusion
+power plant, Nucl. Fusion 62 (2022) 076042, http://dx.doi.org/10.1088/1741-
+4326/ac6433.
+[54]
+ M. Yoshioka, Y. Umeda, H. Takeda, Y. Shimomura, Y. Nomaguchi, T. Tomiyama,
+Physical concept ontology for the knowledge intensive engineering framework,
+Adv. Eng. Inform. 18 (2004) 95–113, http://dx.doi.org/10.1016/j.aei.2004.09.
+004.
+[55]
+ P. Borst, H. Akkermans, A. Pos, J. Top, The PhysSys ontology for physical
+systems, in: Working Papers of the Ninth International Workshop on Qualitative
+Reasoning QR 95, 1995, p. 11.
+[56]
+ J.R.R.A. Martins, S.A. Ning, Engineering Design Optimization, Cambridge
+University Press, Cambridge, 2021, p. 2022, http://dx.doi.org/10.1017/
+9781108980647, https://mdobook.github.io.
+[57] J.R.R.A. Martins, A.B. Lambe, Multidisciplinary design optimization: A survey
+of architectures, AIAA J. 51 (2013) 2049–2075, http://dx.doi.org/10.2514/1.
+J051895.
+[58] T.F. Beernaert, L.F.P. Etman, Multi-level decomposed systems design: Converting
+a requirement specification into an optimization problem, Proc. Int. Conf. Eng.
+Des. 1 (2019) 3691–3700, http://dx.doi.org/10.1017/dsi.2019.376.
+[59] S. Rötzer, S. Schweigert-Recksiek, D. Thoma, M. Zimmermann, Attribute depen-
+dency graphs: Modelling cause and effect in systems design, Des. Sci. 8 (2022)
+e27, http://dx.doi.org/10.1017/dsj.2022.20.
+[60] T. Beernaert, A. Verlaan, P. Etman, P. Giesen, E. Van Beekum, M. Ribeiro, I.
+Bola, M. De Bock, I. Classen, M. De Baar, From physics to project management: A
+multi-domain matrix model for the distributed analysis of nuclear fusion systems,
+in: DS 126: Proceedings of the 25th International DSM Conference (DSM 2023).
+Presented at the the 25th International DSM Conference, the Design Society,
+Gothenburg, Sweden, 2023, pp. 029–038, http://dx.doi.org/10.35199/dsm2023.
+04.
+[61] L. Moormann, Light At the End of the Tunnel: Synthesis-Based Engineering for
+Road Tunnels, (Ph.D. thesis), Eindhoven University of Technology, 2022.
+[62] M. Sköldstam, K. Akesson, M. Fabian, Supervisory Control Applied to Automata
+Extended with Variables - Revised, Technical Report No. R001/2008, Chalmers
+University of Technology, 2008.
+[63] C.G. Cassandras, S. Lafortune, Introduction to Discrete Event Systems, Springer
+International Publishing, Cham, 2021, http://dx.doi.org/10.1007/978-3-030-
+72274-6.
+[64] T. Weilkiens, Systems Engineering with SysML/UML: Modeling, Analysis, Design,
+Elsevier, 2011.
+[65] M. Pierce, B.G. Cameron, A sheep in wolf's clothing: Sysml is not living up to
+the hype of revolutionizing product development, 2023.
+[66] T. Wilschut, A.T. Hofkamp, T.J.L. Schuijbroek, L.F.P. Etman, J.E. Rooda, Bridg-
+ing the gap between requirements engineering and systems architecting: The
+elephant specification language, Under Rev. Publicat. Des. Sci. J. (2024).
+[67] T. Wilschut, L.F.P. Etman, J.E. Rooda, J.A. Vogel, Generation of a function-
+component-parameter multi-domain matrix from structured textual function
+specifications, Res. Eng. Des. 29 (2018) (2018) 531–546, http://dx.doi.org/10.
+1007/s00163-018-0284-9.
+[68] S.D. Eppinger, T.R. Browning, Design Structure Matrix Methods and Applications,
+first ed., MIT Press, 2012.
+[69] T. Wilschut, L.F.P. Etman, J.E. Rooda, I.J.B.F. Adan, Multilevel flow-based
+Markov clustering for design structure matrices,
+[70] R. Albanese, R. Ambrosino, M. Mattei, CREATE-Nl+: A robust control-oriented
+free boundary dynamic plasma equilibrium solver, Fus. Eng. Des. 96–97 (2015)
+664–667, http://dx.doi.org/10.1016/j.fusengdes.2015.06.162.
+[71] T.C. Blanken, F. Felici, C.J. Rapson, M.R. De Baar, W.P.M.H. Heemels, Control-
+oriented modeling of the plasma particle density in Tokamaks and application
+to real-time density profile reconstruction, Fusion Eng. Des. 126 (2018) 87–103,
+http://dx.doi.org/10.1016/j.fusengdes.2017.11.006.
+[72] S.E. Sharapov, D. Testa, B. Alper, D.N. Borba, A. Fasoli, N.C. Hawkes, R.F. Heeter,
+M. Mantsinen, M.G. Von Hellermann, MHD spectroscopy through detecting
+toroidal Alfvén eigenmodes and Alfvén wave cascades, Phys. Lett. A 289 (2001)
+127–134, http://dx.doi.org/10.1016/S0375-9601(01)00588-6.
+[73] R.J. Buttery, T.C. Hender, D.F. Howell, R.J.L. Haye, S. Parris, O. Sauter, C.G.
+Windsor, J.-E. Contributors, On the form of NTM onset scalings, Nucl. Fusion 44
+(2004) 678–685, http://dx.doi.org/10.1088/0029-5515/44/5/011.
+[74] E. Westerhof, H.J. De Blank, J. Pratt, New insights into the generalized rutherford
+equation for nonlinear neoclassical tearing mode growth from 2D reduced MHD
+simulations, Nucl. Fusion 56 (2016) 036016, http://dx.doi.org/10.1088/0029-
+5515/56/3/036016.
+[75] R.V. Budny, J.G. Cordey, Core fusion power gain and alpha heating in JET, TFTR,
+and ITER, Nucl. Fusion 56 (2016) 056002, http://dx.doi.org/10.1088/0029-
+5515/56/5/056002.
+[76] X. Garbet, Introduction to turbulent transport in fusion plasmas, Comptes Rendus.
+Physique 7 (2006) 573–583, http://dx.doi.org/10.1016/j.crhy.2006.06.002.
+[77] F. Janky, E. Fable, O. Kudlacek, W. Treutterer, H. Zohm, Kinetic control, in:
+Proceedings of the 5th IAEA DEMO Programme Workshop, Daejon, South Korea,
+2018.
+[78] B. Sieglin, M. Maraschek, A. Gude, F. Felici, F. Klossek, O. Kudlacek, P.T. Lang,
+A. Pau, B. Ploeckl, W. Treutterer, Dynamic pulse scheduling in ASDEX upgrade:
+Disruption avoidance and investigation of the H-mode density limit, Fusion Eng.
+Des. 191 (2023) 113546, http://dx.doi.org/10.1016/j.fusengdes.2023.113546.
+[79] G. Tartaglione, R. Ambrosino, M. Ariola, W. Biel, L.E. Di Grazia, M. Mattei,
+A. Mele, A model predictive control system for different phases of a plasma
+discharge in DEMO Tokamak, in: 2023 Proceedings of the Conference on
+Control and Its Applications, CT, Society for Industrial and Applied Math-
+ematics, Philadelphia, PA, 2023, pp. 111–118, http://dx.doi.org/10.1137/1.
+9781611977745.15.
+[80] J.C.M. Baeten, J.M. Van De Mortel-Fronczak, J.E. Rooda, Integration of supervi-
+sory control synthesis in model-based systems engineering, in: G.M. Dimirovski
+(Ed.), Complex Systems, Studies in Systems, Decision and Control, Springer
+International Publishing, Cham, 2016, pp. 39–58, http://dx.doi.org/10.1007/
+978-3-319-28860-4_2.ASME J. Mech. Des. 139 (2017)
+121402, http://dx.doi.org/10.1115/1.4037626.

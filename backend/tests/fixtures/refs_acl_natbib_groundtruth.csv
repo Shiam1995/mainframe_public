@@ -1,0 +1,87 @@
+n,title,year,first_author,author_is_org
+1,"Do as I can, not as I say: Grounding language in robotic affordances",2022,Ahn,0
+2,MathQA: Towards interpretable math word problem solving with operation-based formalisms,2019,Amini,0
+3,Giving BERT a calculator: Finding operations and arguments with reading comprehension,2019,Andor,0
+4,Learning with latent language,2018,Andreas,0
+5,Program synthesis with large language models,2021,Austin,0
+6,Beyond the imitation game: Measuring and extrapolating the capabilities of language models,2021,BIG-bench collaboration,1
+7,Flexible generation of natural language deductions,2021,Bostrom,0
+8,Language models are few-shot learners,2020,Brown,0
+9,Making neural programming architectures generalize via recursion,2017,Cai,0
+10,e-SNLI: Natural language inference with natural language explanations,2018,Camburu,0
+11,Can rationalization improve robustness?,2022,Chen,0
+12,Evaluating large language models trained on code,2021,Chen,0
+13,Neural symbolic reader: Scalable integration of distributed and symbolic representations for reading comprehension,2019,Chen,0
+14,Semantically-aligned equation generation for solving and reasoning math word problems,2019,Chiang,0
+15,Transformers as soft reasoners over language,2020,Clark,0
+16,Training verifiers to solve math word problems,2021,Cobbe,0
+17,BERT: Pre-training of deep bidirectional transformers for language understanding,2019,Devlin,0
+18,Neural logic machines,2019,Dong,0
+19,Benefits of intermediate annotations in reading comprehension,2020,Dua,0
+20,Did aristotle use a laptop? A question answering benchmark with implicit reasoning strategies,2021,Geva,0
+21,DREAM: Uncovering mental models behind language models,2022,Gu,0
+22,Training classifiers with natural language explanations,2018,Hancock,0
+23,When can models learn from explanations? a formal framework for understanding the roles of explanation data,2022,Hase,0
+24,Measuring mathematical problem solving with the math dataset,2021,Hendrycks,0
+25,Learning to solve arithmetic word problems with verb categorization,2014,Hosseini,0
+26,Learning to reason deductively: Math word problem solving as complex relation extraction,2022,Jie,0
+27,Scaling laws for neural language models,2020,Kaplan,0
+28,MAWPS: A math word problem repository,2016,Koncel-Kedziorski,0
+29,Can language models learn from explanations in context?,2022,Lampinen,0
+30,MWPToolkit: An open-source framework for deep learning-based math word problem solvers,2021,Lan,0
+31,How many data points is a prompt worth?,2021,Scao,0
+32,The power of scale for parameter-efficient prompt tuning,2021,Lester,0
+33,Solving logic puzzles: From robust processing to precise semantics,2004,Lev,0
+34,Prefix-tuning: Optimizing continuous prompts for generation,2021,Li,0
+35,Explainable multi-hop verbal reasoning through internal monologue,2021,Liang,0
+36,Program induction by rationale generation: Learning to solve and explain algebraic word problems,2017,Ling,0
+37,"Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing",2021,Liu,0
+38,Rationale-inspired natural language explanations with commonsense,2021,Majumder,0
+39,Few-shot self-rationalization with natural language prompts,2022,Marasović,0
+40,On faithfulness and factuality in abstractive summarization,2020,Maynez,0
+41,A diverse corpus for evaluating and developing English math word problem solvers,2020,Miao,0
+42,Rethinking the role of demonstrations: What makes in-context learning work?,2022,Min,0
+43,WT5?! Training text-to-text models to explain their predictions,2020,Narang,0
+44,Show your work: Scratchpads for intermediate computation with language models,2021,Nye,0
+45,Training language models to follow instructions with human feedback,2022,Ouyang,0
+46,Are NLP models really able to solve simple math word problems?,2021,Patel,0
+47,Deep contextualized word representations,2018,Peters,0
+48,Reasoning like program executors,2022,Pi,0
+49,Measuring and improving BERT’s mathematical abilities by predicting the order of reasoning,2021,ekos,0
+50,"Scaling language models: Methods, analysis & insights from training Gopher",2021,Rae,0
+51,Exploring the limits of transfer learning with a unified text-to-text transformer,2020,Raffel,0
+52,SelfExplain: A self-explaining architecture for neural text classifiers,2021,Rajagopal,0
+53,Explain yourself! Leveraging language models for commonsense reasoning,2019,Rajani,0
+54,NumNet: Machine reading comprehension with numerical reasoning,2019,Ran,0
+55,Measuring attribution in natural language generation models,2021,Rashkin,0
+56,Teaching autoregressive language models complex tasks by demonstration,2021,Recchia,0
+57,A recipe for arbitrary text style transfer with large language models,2022,Reif,0
+58,Prompt programming for large language models: Beyond the few-shot paradigm,2021,Reynolds,0
+59,Solving general arithmetic word problems,2015,Roy,0
+60,Reasoning about Quantities in Natural Language,2015,Roy,0
+61,RuleBERT: Teaching soft rules to pre-trained language models,2021,Saeed,0
+62,Multitask prompted training enables zero-shot task generalization,2022,Sanh,0
+63,Generate & rank: A multi-task framework for math word problems,2021,Shen,0
+64,CommonsenseQA: A question answering challenge targeting commonsense knowledge,2019,Talmor,0
+65,Leap-of-thought: Teaching pre-trained models to systematically reason over implicit knowledge,2020,Talmor,0
+66,CommonsenseQA 2.0: Exposing the limits of ai through gamification,2021,Talmor,0
+67,Unifying language learning paradigms,2022,Tay,0
+68,LaMDA: Language models for dialog applications,2022,Thoppilan,0
+69,Self-consistency improves chain of thought reasoning in language models,2022,Wang,0
+70,"Benchmarking generalization via in-context instructions on 1,600+ language tasks",2022,Wang,0
+71,Finetuned language models are zero-shot learners,2022,Wei,0
+72,Emergent abilities of large language models,2022,Wei,0
+73,Reframing human-AI collaboration for generating free-text explanations,2022,Wiegreffe,0
+74,Teach me to explain: A review of datasets for explainable NLP,2021,Wiegreffe,0
+75,Measuring association between labels and free-text rationales,2021,Wiegreffe,0
+76,PromptChainer: Chaining large language model prompts through visual programming,2022,Wu,0
+77,AI chains: Transparent and controllable human-AI interaction by chaining large language model prompts,2022,Wu,0
+78,Neural execution engines: Learning to execute subroutines,2020,Yan,0
+79,Refining language models with compositional explanations,2021,Yao,0
+80,The unreliability of explanations in few-shot in-context learning,2022,Ye,0
+81,Few-shot out-of-domain transfer learning of natural language explanations,2021,Yordanov,0
+82,Using “annotator rationales” to improve machine learning for text categorization,2007,Zaidan,0
+83,Learning to execute,2014,Zaremba,0
+84,STaR: Bootstrapping reasoning with reasoning,2022,Zelikman,0
+85,Calibrate before use: Improving few-shot performance of language models,2021,Zhao,0
+86,Towards interpretable natural language understanding with explanations as latent variables,2020,Zhou,0

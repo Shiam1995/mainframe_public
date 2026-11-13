@@ -1,0 +1,34 @@
+n,title,year,first_author,author_is_org
+1,Investigating contingency awareness using Atari 2600 games,2012,Bellemare,0
+2,A survey of Monte Carlo tree search methods,2012,Browne,0
+3,Automatic state abstraction from demonstration,2011,Cobo,0
+4,A survey of the seventh international planning competition,2012,Coles,0
+5,An object-oriented representation for efficient reinforcement learning,2008,Diuk,0
+6,A non-behavioural| computational extension to the Turing Test,1998,Dowe,0
+7,General Game Playing: Overview of the AAAI competition,2005,Genesereth,0
+8,Similarity search in high dimensions via hashing,1999,Gionis,0
+9,HyperNEAT-GGP: A HyperNEAT-based Atari general game player,2012,Hausknecht,0
+10,Measuring universal intelligence: Towards an anytime intelligence test,2010,Hernández-Orallo,0
+11,A formal definition of intelligence based on an intensional variant of Kolmogorov complexity,1998,Hernández-Orallo,0
+12,Universal Artificial Intelligence: Sequential Decisions based on Algorithmic Probability,2005,Hutter,0
+13,Sparse Distributed Memory,1988,Kanerva,0
+14,Bandit based Monte-Carlo planning,2006,Kocsis,0
+15,Machine Super Intelligence,2008,Legg,0
+16,An approximation of the universal intelligence measure,2011,Legg,0
+17,Learning to play Mario,2009,Mohan,0
+18,Coevolution of neural networks using a layered pareto archive,2006,Monroy,0
+19,Racing the Beam: The Atari Video Computer System,2009,Montfort,0
+20,Game-Independent AI Agents for Playing Atari 2600 Console Games,2010,Naddaf,0
+21,Strategy Generation and Evaluation for Meta-Game Playing,1993,Pell,0
+22,Map learning with uninterpreted sensors and effectors,1997,Pierce,0
+23,Rationality and intelligence,1997,Russell,0
+24,Measuring intelligence through games,2011,Schaul,0
+25,Generalized polynomial approximations in Markovian decision processes,1985,Schweitzer,0
+26,From pixels to policies: A bootstrapping agent,2008,Stober,0
+27,Reinforcement Learning: An Introduction,1998,Sutton,0
+28,Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction,2011,Sutton,0
+29,Lifelong robot learning,1995,Thrun,0
+30,Q-learning,1992,Watkins,0
+31,Protecting against evaluation overfitting in empirical reinforcement learning,2011,Whiteson,0
+32,The reinforcement learning competitions,2010,Whiteson,0
+33,Using imagery to simplify perceptual abstraction in reinforcement learning agents,2010,Wintermute,0

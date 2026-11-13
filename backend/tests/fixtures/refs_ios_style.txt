@@ -1,0 +1,55 @@
+M. Austin, J. Zakar, D. York, L. Pettersen and E. Duff, A Systems Approach to the Transition of Emergent Technologies
+into Operational Systems – Herding the Cats, the Road to Euphoria and Planning for Success International Conference
+of the International Council on Systems Engineering, INCOSE, Netherlands, 2008.
+J.S. Beasley, Networking, Pearson Education, Inc., Upper Saddle River, NJ, 2004.
+J.W. Bilbro, A Suite of Tools for Technology Assessment, Technology Maturity Conference: Multi-Dimensional Assess-
+ment of Technology Maturity, AFRL, Virginia Beach, VA, 2007.
+R.T. Brooks, and A. Sage, System of systems integration and test, Information Knowledge Systems Management
+5(2005/2006), 261–280.
+D.M. Buede, The Engineering Design of Systems, John Wiley & Sons, New York, 2000.
+J. Connelly, K. Daues, R.K. Howard and L. Toups, Definition and Development of Habitation Readiness Level (HRL)
+for Planetary Surface Habitats, 10th Biennial International Conference on Engineering, Construction, and Operations in
+Challenging Environments, Earth and Space, 2006, 81.
+D. Cundiff, Manufacturing Readiness Levels (MRL), Unpublished Whitepaper, 2003.
+DoD, Levels of Information Systems Interoperability, 1998.
+DoD, Technology Readiness Assessment (TRA) Deskbook. in: DUSD(S&T), (Ed.), Department of Defense, 2005.
+DoD, Operation of the Defense Acquisition System, Instruction 5000.02 Department of Defense, Washington, DC, 2008.
+T. Dowling and T. Pardoe, in: TIMPA – Technology Insertion Metrics, M.o. Defense, ed., QINETIQ, 2005, p. 60.
+J. Fang, S. Hu and Y. Han, A Service Interoperability Assessment Mode l for Service Composition, IEEE International
+Conference on Services Computing (SCC’04), 2004.
+GAO, Best Practices: Better Management of Technology Development Can Improve Weapon System Outcomes. in: GAO,
+(Ed.), 1999.
+C.P. Graettinger, S. Garcia, J. Siviy, R.J. Schenk and P.J.V. Syckle, Using the "Technology Readiness Levels" Scale to
+Support Technology Management in the DoDs ATD/STO Enviornments. in: SEI, (Ed.), Carnegie Mellon, 2002.
+M. Hobday, H. Rush and J. Tidd, Innovation in complex products and system, Research Policy 29(7–8) (2000), 793–804.
+IEEE, Systems and software engineering – System life cycle processes, IEEE 15288, 2008.
+INCOSE, INCOSE Systems Engineering Handbook, Version 3, International Council on Systems Engineering, 2007.
+ISO, Information Technology – Open Systems Interconnection – Basic Reference Model: The Basic Model, ISO/IEC
+7498-1, 1994, 1–68.
+JPL, Mars Global Surveyor: Mission Operations Specifications: Volume 5, Part 1, California Institute of Technology,
+1996, 1–51.
+L.J. Lanzerotti, in: Assessment of Options for Extending the Life of the Hubble Space Telescope: Final Report, N.R.
+Council, ed., The National Academies Press, Washington D.C., 2005.
+J.L. Lions, ARIANE 5: Flight 501 Failure, Report by the Inquiry Board, Paris, 1996.
+J.C. Mankins, Technology Readiness Levels, NASA, 1995.
+J.C. Mankins, Approaches to Strategic Research and Technology (R&T) Analysis and Road Mapping. Acta Astronautica
+51(1–9) (2002), 3–21.
+J.J. Mattice, in: Hubble Space Telescope: Systems Engineering Case Study, C.f.S. Engineering, ed., Air Force Institute
+of Technology, 2005.
+D.E. Mosher, Understanding the Extraordinary Cost Growth of Missile Defense, Arms Control Today(2000), 9–15.
+S. Nambisan, Complementary product integration by high-technology new ventures: The role of initial technology
+strategy, Management Science 48(3) (2002), 382–398.
+NASA, Mars Climate Orbiter, Mishap Investigation Board: Phase I Report, 1999.
+NASA, NASA Systems Engineering Handbook, NASA/SP-2007-6105, National Aeronautics and Space Administration,
+Washington, DC, 2007.
+E.G. Nilsson, E.K. Nordhagen and G. Oftedal, Aspects of Systems Integration, 1st International System Integration, 1990,
+434–443.
+A.M. Orme, H. Yao and L.H. Etzkorn, Coupling Metrics for Ontology-Based Systems, IEEE Software (2006), 102–108.
+A.M. Orme, H. Yao and L.H. Etzkorn, Indicating ontology data quality, stability, and completeness throughout ontology
+evolution, Journal of Software Maintenance and Evolution 19(1) (2007), 49–75.
+S.R. Sadin, F.P. Povinelli and R. Rosen, The NASA Technology Push Towards Future Space Mission Systems, Acta
+Astronautica 20(1989), 73–77.
+P.A. Sandborn, T.E. Herald, J. Houston and P. Singh, Optimum Technology Insertion Into Systems Based on the
+Assessment of Viability, IEEE Transactions on Components and Packaging Technologies 26(4) (2003), 734–738.
+B. Sauser, J. Ramirez-Marquez, D. Henry and D. DiMarzio, A System Maturity Index for the Systems Engineering Life
+Cycle, International Journal of Industrial and Systems Engineering 3(6) (2008), 673–691.

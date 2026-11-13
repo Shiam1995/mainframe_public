@@ -1,0 +1,9 @@
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+
+# personal data: graph dumps and one-off seed scripts
+backups/
+.pytest_cache/

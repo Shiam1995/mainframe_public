@@ -1,0 +1,77 @@
+Bellemare, M., Veness, J., & Bowling, M. (2012). Investigating contingency awareness using
+Atari 2600 games. In Proceedings of the the 26th Conference on Artificial Intelligence
+(AAAI).
+Browne, C. B., Powley, E., Whitehouse, D., Lucas, S. M., Cowling, P. I., Rohlfshagen, P.,
+Tavener, S., Perez, D., Samothrakis, S., & Colton, S. (2012). A survey of Monte Carlo
+tree search methods. IEEE Transactions on Computational Intelligence and AI in
+Games, 4 (1), 1 –43.
+Cobo, L. C., Zang, P., Isbell, C. L., & Thomaz, A. L. (2011). Automatic state abstraction
+from demonstration. In Proceedings of the 22nd Second International Joint Conference
+on Articial Intelligence (IJCAI).
+Coles, A., Coles, A., Olaya, A., Jiménez, S., López, C., Sanner, S., & Yoon, S. (2012). A
+survey of the seventh international planning competition. AI Magazine, 33 (1), 83–88.
+Diuk, C., Cohen, A., & Littman, M. L. (2008). An object-oriented representation for effi-
+cient reinforcement learning. In Proceedings of the 25th International Conference on
+Machine learning (ICML).
+Dowe, D. L., & Hajek, A. R. (1998). A non-behavioural, computational extension to the
+Turing Test. In Proceedings of the International Conference on Computational Intel-
+ligence and Multimedia Applications (ICCIMA).
+Genesereth, M. R., Love, N., & Pell, B. (2005). General Game Playing: Overview of the
+AAAI competition. AI Magazine, 26 (2), 62–72.
+Gionis, A., Indyk, P., & Motwani, R. (1999). Similarity search in high dimensions via
+hashing. In Proceedings of the International Conference on Very Large Databases.
+Hausknecht, M., Khandelwal, P., Miikkulainen, R., & Stone, P. (2012). HyperNEAT-GGP:
+A HyperNEAT-based Atari general game player. In Proceedings of the Genetic and
+Evolutionary Computation Conference (GECCO).
+Hernández-Orallo, J., & Dowe, D. L. (2010). Measuring universal intelligence: Towards an
+anytime intelligence test. Artificial Intelligence, 174 (18), 1508 – 1539.
+Hernández-Orallo, J., & Minaya-Collado, N. (1998). A formal definition of intelligence
+based on an intensional variant of Kolmogorov complexity. In Proceedings of the
+International Symposium of Engineering of Intelligent Systems (EIS).
+Hutter, M. (2005). Universal Artificial Intelligence: Sequential Decisions based on Algorith-
+mic Probability. Springer, Berlin.
+Kanerva, P. (1988). Sparse Distributed Memory. The MIT Press.
+Kocsis, L., & Szepesvári, C. (2006). Bandit based Monte-Carlo planning. In Proceedings of
+the 15th European Conference on Machine Learning (ECML).
+Legg, S. (2008). Machine Super Intelligence. Ph.D. thesis, University of Lugano.
+Legg, S., & Veness, J. (2011). An approximation of the universal intelligence measure. In
+Proceedings of the Ray Solomonoff Memorial Conference.
+Mohan, S., & Laird, J. E. (2009). Learning to play Mario. Tech. rep. CCA-TR-2009-03,
+Center for Cognitive Architecture, University of Michigan.
+Monroy, G. A., Stanley, K. O., & Miikkulainen, R. (2006). Coevolution of neural networks
+using a layered pareto archive. In Proceedings of the 8th Genetic and Evolutionary
+Computation Conference (GECCO).
+Montfort, N., & Bogost, I. (2009). Racing the Beam: The Atari Video Computer System.
+MIT Press.
+Naddaf, Y. (2010). Game-Independent AI Agents for Playing Atari 2600 Console Games.
+Master’s thesis, University of Alberta.
+Pell, B. (1993). Strategy Generation and Evaluation for Meta-Game Playing. Ph.D. thesis,
+University of Cambridge.
+Pierce, D., & Kuipers, B. (1997). Map learning with uninterpreted sensors and effectors.
+Artificial Intelligence, 92 (1-2), 169–227.
+Russell, S. J. (1997). Rationality and intelligence. Artificial intelligence, 94 (1), 57–77.
+Schaul, T., Togelius, J., & Schmidhuber, J. (2011). Measuring intelligence through games.
+CoRR, abs/1109.1314.
+Schweitzer, P. J., & Seidmann, A. (1985). Generalized polynomial approximations in Marko-
+vian decision processes. Journal of mathematical analysis and applications, 110 (2),
+568–582.
+Stober, J., & Kuipers, B. (2008). From pixels to policies: A bootstrapping agent. In
+Proceedings of the 7th IEEE International Conference on Development and Learning
+(ICDL).
+Sutton, R. S., & Barto, A. G. (1998). Reinforcement Learning: An Introduction. The MIT
+Press.
+Sutton, R., Modayil, J., Delp, M., Degris, T., Pilarski, P., White, A., & Precup, D. (2011).
+Horde: A scalable real-time architecture for learning knowledge from unsupervised
+sensorimotor interaction. In Proceedings of the 10th International Conference on Au-
+tonomous Agents and Multiagents Systems (AAMAS).
+Thrun, S., & Mitchell, T. M. (1995). Lifelong robot learning. Robotics and Autonomous
+Systems, 15 (1), 25–46.
+Watkins, C., & Dayan, P. (1992). Q-learning. Machine Learning, 8, 279–292.
+Whiteson, S., Tanner, B., Taylor, M. E., & Stone, P. (2011). Protecting against evaluation
+overfitting in empirical reinforcement learning. In Proceedings of the IEEE Symposium
+on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL).
+Whiteson, S., Tanner, B., & White, A. (2010). The reinforcement learning competitions.
+AI Magazine, 31 (2), 81–94.
+Wintermute, S. (2010). Using imagery to simplify perceptual abstraction in reinforcement
+learning agents. In Proceedings of the the 24th Conference on Artificial Intelligence
+(AAAI).
